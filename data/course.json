@@ -1,0 +1,43 @@
+{
+  "term": "Spring",
+  "year": "2021",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Materials Science and Engineering"
+    ],
+    [
+      "Teaching and Education",
+      "Curriculum and Teaching"
+    ],
+    [
+      "Teaching and Education",
+      "Higher Education"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "micro-mentoring-resources-and-materials-science-curriculum"
+  },
+  "course_image": {
+    "content": "",
+    "website": "micro-mentoring-resources-and-materials-science-curriculum"
+  },
+  "course_title": "MICRO Mentoring Resources and Materials Science Curriculum",
+  "course_description": "MICRO is the *Materials Initiative for Comprehensive Research Opportunity* created to provide a remote research and education experience to undergraduate students from underrepresented backgrounds. This site includes mentoring resources and online materials science curriculum provided for self-study in the program.",
+  "department_numbers": [
+    "3"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.3-006",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "micro-mentoring-resources-and-materials-science-curriculum"
+  },
+  "learning_resource_types": [],
+  "site_uid": "c675db3e-5ede-4387-b083-b3c588c76a55"
+}
