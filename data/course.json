@@ -20,8 +20,12 @@
   ],
   "legacy_uid": "",
   "instructors": {
-    "content": [],
-    "website": "micro-mentoring-resources-and-materials-science-curriculum"
+    "content": [
+      "0df6e172-f209-4766-86af-40437bbea966",
+      "36972c32-0288-497c-b161-ce94196e183c",
+      "4738bac9-8a06-4a0c-b017-60d4c4e7710a"
+    ],
+    "website": "ocw-www"
   },
   "course_image": {
     "content": "",
