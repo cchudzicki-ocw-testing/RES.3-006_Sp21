@@ -3,3 +3,7 @@ leftnav:
   name: About MICRO
   url: /pages/micro-initiative
   weight: 10
+- identifier: b86f62d8-591c-4792-bf6a-b241dcfeb111
+  name: MICRO Curriculum
+  url: /pages/curriculum
+  weight: 20
