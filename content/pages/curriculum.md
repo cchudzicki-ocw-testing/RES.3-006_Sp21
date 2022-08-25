@@ -185,7 +185,7 @@ You can find the archive here: [https://link.springer.com/journal/43577/volumes-
 
 Look through to see if you can find a relevant volume.  Read through the issue to try to gain a better overview of the important research, developments, and challenges that relate to your field of MS&E research.
 
-##  Video Links
+## Video Links
 
 1. Mark Miodownik – Stuff Matters: [https://www.youtube.com/watch?v=wxyY1lyC4gM&t=1318](https://www.youtube.com/watch?v=wxyY1lyC4gM&t=1318)s
 2. Prof. Michael Cima-- The Intersection of Materials and Medicine: [https://www.youtube.com/watch?v=4wjtWUGfYZs&t=2s](https://www.youtube.com/watch?v=4wjtWUGfYZs&t=2s)
@@ -198,11 +198,11 @@ Look through to see if you can find a relevant volume.  Read through the issue 
 9. 3.091 Sadoway: Binary Phase Diagrams: Complete Solubility
 10. 3.091 Sadoway: Binary Phase Diagrams: Limited Solubility
 
-##  MICRO Communications Assignments
+## MICRO Communications Assignments
 
 There are three communications-focused assignments that are due over the course of the Fall Semester of the MICRO Program. You can find descriptions of all three assignments below:
 
-###  Assignment 1: So what is Materials Science, Anyway?
+### Assignment 1: So what is Materials Science, Anyway?
 
 *Due: Week 7*
 
