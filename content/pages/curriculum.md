@@ -24,11 +24,7 @@ Introduction to MICRO and Materials Science
 {{< tdclose >}}{{< tdopen >}}
 Stuff Matters
 {{< tdclose >}}{{< tdopen >}}
-
 (1) MICRO Bio
-
- 
-
 {{< tdclose >}}{{< tdopen >}}
 MICRO Meet and Greet
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -40,10 +36,6 @@ Materials Science Applications: Medicine and Energy
 (1) Cima: The Intersection of Materials and Medicine
 
 (2) Grossman: Hey, Atoms: What Have You Done for Me Lately?
-
- 
-
- 
 
 {{< tdclose >}}{{< tdopen >}}
 Research Outline
@@ -58,8 +50,6 @@ Think Like a Materials Scientist: Crystallography
 (1) Introduction to Crystallography
 
 (2) Crystallographic Notation
-
- 
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -82,11 +72,7 @@ Think Like a Materials Scientist: Defects
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Week 5
 {{< tdclose >}}{{< tdopen >}}
-
 Think Like a Materials Scientist: Phase Diagrams
-
- 
-
 {{< tdclose >}}{{< tdopen >}}
 
 (1) Binary Phase Diagrams: Complete Solubility
@@ -187,7 +173,7 @@ Look through to see if you can find a relevant volume.  Read through the issue 
 
 ## Video Links
 
-1. [Mark Miodownik – Stuff Matters](https://www.youtube.com/watch?v=wxyY1lyC4gM&t=1318s): https://www.youtube.com/watch?v=wxyY1lyC4gM&t=1318s
+1. [Mark Miodownik – Stuff Matters](https://www.youtube.com/watch?v=wxyY1lyC4gM&t=1318s): [https://www.youtube.com/watch?v=wxyY1lyC4gM&t=1318s](https://www.youtube.com/watch?v=wxyY1lyC4gM&t=1318s)
 2. Prof. Michael Cima – The Intersection of Materials and Medicine: [https://www.youtube.com/watch?v=4wjtWUGfYZs&t=2s](https://www.youtube.com/watch?v=4wjtWUGfYZs&t=2s)
 3. Prof. Jeffrey Grossman – Hey, Atoms: What Have You Done for Me Lately? [https://www.youtube.com/watch?v=btefFyjmxNE&t=1689s](https://www.youtube.com/watch?v=btefFyjmxNE&t=1689s)
 4. Prof. Frances Ross – Funny Microscope Videos: [https://www.youtube.com/watch?v=taiUjgCTX-Q](https://www.youtube.com/watch?v=taiUjgCTX-Q)
