@@ -47,9 +47,9 @@ Week 3
 Think Like a Materials Scientist: Crystallography
 {{< tdclose >}}{{< tdopen >}}
 
-(1) Introduction to Crystallography
+(1) [Introduction to Crystallography](https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/resources/lecture-18/)
 
-(2) Crystallographic Notation
+(2) [Crystallographic Notation](https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/resources/lecture-19/)
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -61,9 +61,9 @@ Week  4
 Think Like a Materials Scientist: Defects
 {{< tdclose >}}{{< tdopen >}}
 
-(1) Point and Line Defects 1
+(1) [Point and Line Defects 1](https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/resources/lecture-23/)
 
-(2) Point and Line Defects 2
+(2) [Point and Line Defects 2](https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/resources/lecture-24/)
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -75,9 +75,9 @@ Week 5
 Think Like a Materials Scientist: Phase Diagrams
 {{< tdclose >}}{{< tdopen >}}
 
-(1) Binary Phase Diagrams: Complete Solubility
+(1) [Binary Phase Diagrams: Complete Solubility](https://ocw.mit.edu/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/pages/solid-solutions/34-binary-phase-diagrams-complete-solubility/)
 
-(2) Binary Phase Diagrams: Limited Solubility
+(2) [Binary Phase Diagrams: Limited Solubility](https://ocw.mit.edu/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/pages/solid-solutions/35-binary-phase-diagrams-limited-solubility/)
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -98,7 +98,7 @@ Week 7
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
-\* No video this week, but take a look at the instructions below.
+\* No video this week, but take a look at the Literature Review instructions below.
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
@@ -165,11 +165,7 @@ Develop final presentation
 Final MICRO Presentations
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
- \* Literature Review, Step 1: To begin your literature review, take a look at the Materials Research Society’s archive of the MRS Bulletin.  Written for the broader scientific community, the MRS Bulletin focuses on a specific topic currently of interest in the field of MS&E. 
-
-You can find the archive here: [https://link.springer.com/journal/43577/volumes-and-issues](https://link.springer.com/journal/43577/volumes-and-issues).
-
-Look through to see if you can find a relevant volume.  Read through the issue to try to gain a better overview of the important research, developments, and challenges that relate to your field of MS&E research.
+ \* Literature Review, Step 1: To begin your literature review, take a look at the [Materials Research Society’s archive of the MRS Bulletin](https://link.springer.com/journal/43577/volumes-and-issues).  Written for the broader scientific community, the MRS Bulletin focuses on a specific topic currently of interest in the field of MS&E. Look through to see if you can find a relevant volume.  Read through the issue to try to gain a better overview of the important research, developments, and challenges that relate to your field of MS&E research.
 
 ## Video Links
 
@@ -177,12 +173,12 @@ Look through to see if you can find a relevant volume.  Read through the issue 
 2. Prof. Michael Cima – The Intersection of Materials and Medicine: [https://www.youtube.com/watch?v=4wjtWUGfYZs&t=2s](https://www.youtube.com/watch?v=4wjtWUGfYZs&t=2s)
 3. Prof. Jeffrey Grossman – Hey, Atoms: What Have You Done for Me Lately? [https://www.youtube.com/watch?v=btefFyjmxNE&t=1689s](https://www.youtube.com/watch?v=btefFyjmxNE&t=1689s)
 4. Prof. Frances Ross – Funny Microscope Videos: [https://www.youtube.com/watch?v=taiUjgCTX-Q](https://www.youtube.com/watch?v=taiUjgCTX-Q)
-5. 3.091 Grossman: Introduction to Crystallography
-6. 3.091 Grossman: Crystallographic Notation
-7. 3.091 Grossman: Point and Line Defects 1
-8. 3.091 Grossman: Point and Line Defects 2
-9. 3.091 Sadoway: Binary Phase Diagrams: Complete Solubility
-10. 3.091 Sadoway: Binary Phase Diagrams: Limited Solubility
+5. *3.091 Intro to Solid State Chemistry* – Prof. Jeffrey Grossman: [Introduction to Crystallography](https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/resources/lecture-18/)
+6. *3.091 Intro to Solid State Chemistry* – Prof. Jeffrey Grossman: [Crystallographic Notation](https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/resources/lecture-19/)
+7. *3.091 Intro to Solid State Chemistry* – Prof. Jeffrey Grossman: [Point and Line Defects 1](https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/resources/lecture-23/)
+8. *3.091 Intro to Solid State Chemistry* – Prof. Jeffrey Grossman: [Point and Line Defects 2](https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/resources/lecture-24/)
+9. *3.091SC Intro to Solid State Chemistry* – Prof. Don Sadoway: [Binary Phase Diagrams: Complete Solubility](https://ocw.mit.edu/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/pages/solid-solutions/34-binary-phase-diagrams-complete-solubility/)
+10. *3.091SC Intro to Solid State Chemistry* – Prof. Don Sadoway: [Binary Phase Diagrams: Limited Solubility](https://ocw.mit.edu/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/pages/solid-solutions/35-binary-phase-diagrams-limited-solubility/)
 
 ## MICRO Communications Assignments
 
