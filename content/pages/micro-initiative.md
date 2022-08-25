@@ -12,6 +12,6 @@ The program offers participants the ability to conduct cutting-edge materials re
 
 The MICRO initiative was developed by graduate students in the MIT Department of Materials Science and Engineering (DMSE) and was initially supported by MIT Open Learning’s J-WEL foundation.
 
- 
+This resource presents the MICRO curriculum and a set of mentoring resources developed specifically for this initiative.
 
-https://micro.mit.edu/
+[https://micro.mit.edu/](https://micro.mit.edu/)
