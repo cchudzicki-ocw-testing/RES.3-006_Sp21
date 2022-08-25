@@ -1,8 +1,8 @@
 ---
 content_type: page
-description: This page contains the calendar, curriculum, and assignment listing.
+description: This page contains the MICRO calendar, curriculum, and assignment listing.
 draft: false
-title: Curriculum
+title: MICRO Curriculum
 uid: b86f62d8-591c-4792-bf6a-b241dcfeb111
 ---
 ## Calendar
