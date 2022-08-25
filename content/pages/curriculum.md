@@ -5,6 +5,8 @@ draft: false
 title: Curriculum
 uid: b86f62d8-591c-4792-bf6a-b241dcfeb111
 ---
+## Calendar
+
 {{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 **Week**
 {{< tdclose >}}{{< tdopen >}}
@@ -16,7 +18,7 @@ uid: b86f62d8-591c-4792-bf6a-b241dcfeb111
 {{< tdclose >}}{{< tdopen >}}
 **Meeting**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Week 1
+Week&nbsp:1
 {{< tdclose >}}{{< tdopen >}}
 Introduction to MICRO and Materials Science
 {{< tdclose >}}{{< tdopen >}}
@@ -120,7 +122,7 @@ Week 8
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
-MIT Libraries Guide-- Materials Science and Engineering: https://libguides.mit.edu/materials
+MIT Libraries Guide-- Materials Science and Engineering: [https://libguides.mit.edu/materials](https://libguides.mit.edu/materials)
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
@@ -183,7 +185,7 @@ You can find the archive here: [https://link.springer.com/journal/43577/volumes-
 
  Look through to see if you can find a relevant volume.  Read through the issue to try to gain a better overview of the important research, developments, and challenges that relate to your field of MS&E research.
 
- **Video Links:**
+##  Video Links
 
 1. Mark Miodownik – Stuff Matters: [https://www.youtube.com/watch?v=wxyY1lyC4gM&t=1318](https://www.youtube.com/watch?v=wxyY1lyC4gM&t=1318)s
 2. Prof. Michael Cima-- The Intersection of Materials and Medicine: [https://www.youtube.com/watch?v=4wjtWUGfYZs&t=2s](https://www.youtube.com/watch?v=4wjtWUGfYZs&t=2s)
@@ -196,19 +198,19 @@ You can find the archive here: [https://link.springer.com/journal/43577/volumes-
 9. 3.091 Sadoway: Binary Phase Diagrams: Complete Solubility
 10. 3.091 Sadoway: Binary Phase Diagrams: Limited Solubility
 
- **MICRO Communications Assignments**
+##  MICRO Communications Assignments
 
 There are three communications-focused assignments that are due over the course of the Fall Semester of the MICRO Program. You can find descriptions of all three assignments below:
 
- Assignment 1: So what is Materials Science, Anyway?
+###  Assignment 1: So what is Materials Science, Anyway?
 
-Due: October 22
+*Due: Week 7*
 
 For this assignment, you will create either a blog post or a video that addresses the question, “What is Materials Science?.” By this point, you have watched several videos that explain many fundamental concepts of materials science and engineering, and you have started working side by (virtual) side on a materials-based research project. For your first assignment, you will need to create a blog post or a short video that explains what materials science is. You can target your post/video to a general audience, if you’d like. Alternatively, you can choose to address your post to students in your major, explaining how materials science relates to your chosen field of study. With your permission, we’d love to share your post on the MICRO website so that others can learn from it!
 
- Assignment 2: Literature Review
+### Assignment 2: Literature Review
 
-Due: November 19
+*Due: Week 10*
 
 The goal of the second assignment is for you to develop and communicate a deeper understanding of the relevant materials that you are studying in your research project. You will begin by conducting a literature review of the relevant materials and technologies and develop a bibliography of the important literature in the field. Then, you will do one of the following:
 
@@ -217,9 +219,9 @@ The goal of the second assignment is for you to develop and communicate a deeper
 
  Your literature review will also be helpful for completing Assignment 3, below.
 
- Assignment 3: Final Project
+### Assignment 3: Final Project
 
-Presentation Date: On or about December 10th, depending on student availability
+*Presentation Date: End of Week 13*
 
 For your final project, you will develop a 10-15 minute presentation that you will share over Zoom with the MICRO students and staff.  (You are welcome to invite your research advisors, too!) Your presentation should include the following:
 
