@@ -18,7 +18,7 @@ uid: b86f62d8-591c-4792-bf6a-b241dcfeb111
 {{< tdclose >}}{{< tdopen >}}
 **Meeting**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Week&nbsp:1
+Week 1
 {{< tdclose >}}{{< tdopen >}}
 Introduction to MICRO and Materials Science
 {{< tdclose >}}{{< tdopen >}}
@@ -32,7 +32,7 @@ Stuff Matters
 {{< tdclose >}}{{< tdopen >}}
 MICRO Meet and Greet
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Week 2
+Week&nbsp;2
 {{< tdclose >}}{{< tdopen >}}
 Materials Science Applications: Medicine and Energy
 {{< tdclose >}}{{< tdopen >}}
