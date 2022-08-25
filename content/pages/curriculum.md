@@ -32,7 +32,7 @@ Stuff Matters
 {{< tdclose >}}{{< tdopen >}}
 MICRO Meet and Greet
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Week&nbsp;2
+Week 2
 {{< tdclose >}}{{< tdopen >}}
 Materials Science Applications: Medicine and Energy
 {{< tdclose >}}{{< tdopen >}}
@@ -66,7 +66,7 @@ Think Like a Materials Scientist: Crystallography
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Week 4
+Week &nbsp;4
 {{< tdclose >}}{{< tdopen >}}
 Think Like a Materials Scientist: Defects
 {{< tdclose >}}{{< tdopen >}}
@@ -80,7 +80,7 @@ Think Like a Materials Scientist: Defects
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Week 5
+Week&nbsp;5
 {{< tdclose >}}{{< tdopen >}}
 
 Think Like a Materials Scientist: Phase Diagrams
@@ -138,7 +138,7 @@ Week 9
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Week 10
+Week&nbsp;10
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
@@ -158,7 +158,7 @@ Thanksgiving Week
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Week 12
+Week&nbsp;12
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
