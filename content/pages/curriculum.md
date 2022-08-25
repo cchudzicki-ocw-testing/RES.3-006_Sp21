@@ -187,8 +187,8 @@ Look through to see if you can find a relevant volume.  Read through the issue 
 
 ## Video Links
 
-1. Mark Miodownik – Stuff Matters: [https://www.youtube.com/watch?v=wxyY1lyC4gM&t=1318](https://www.youtube.com/watch?v=wxyY1lyC4gM&t=1318)s
-2. Prof. Michael Cima-- The Intersection of Materials and Medicine: [https://www.youtube.com/watch?v=4wjtWUGfYZs&t=2s](https://www.youtube.com/watch?v=4wjtWUGfYZs&t=2s)
+1. [Mark Miodownik – Stuff Matters](https://www.youtube.com/watch?v=wxyY1lyC4gM&t=1318s): https://www.youtube.com/watch?v=wxyY1lyC4gM&t=1318s
+2. Prof. Michael Cima – The Intersection of Materials and Medicine: [https://www.youtube.com/watch?v=4wjtWUGfYZs&t=2s](https://www.youtube.com/watch?v=4wjtWUGfYZs&t=2s)
 3. Prof. Jeffrey Grossman – Hey, Atoms: What Have You Done for Me Lately? [https://www.youtube.com/watch?v=btefFyjmxNE&t=1689s](https://www.youtube.com/watch?v=btefFyjmxNE&t=1689s)
 4. Prof. Frances Ross – Funny Microscope Videos: [https://www.youtube.com/watch?v=taiUjgCTX-Q](https://www.youtube.com/watch?v=taiUjgCTX-Q)
 5. 3.091 Grossman: Introduction to Crystallography
