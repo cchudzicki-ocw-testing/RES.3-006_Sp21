@@ -66,7 +66,7 @@ Think Like a Materials Scientist: Crystallography
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Week &nbsp;4
+Week  4
 {{< tdclose >}}{{< tdopen >}}
 Think Like a Materials Scientist: Defects
 {{< tdclose >}}{{< tdopen >}}
@@ -80,7 +80,7 @@ Think Like a Materials Scientist: Defects
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Week&nbsp;5
+Week 5
 {{< tdclose >}}{{< tdopen >}}
 
 Think Like a Materials Scientist: Phase Diagrams
@@ -138,7 +138,7 @@ Week 9
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Week&nbsp;10
+Week 10
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
@@ -158,7 +158,7 @@ Thanksgiving Week
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Week&nbsp;12
+Week 12
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
@@ -183,7 +183,7 @@ Final MICRO Presentations
 
 You can find the archive here: [https://link.springer.com/journal/43577/volumes-and-issues](https://link.springer.com/journal/43577/volumes-and-issues).
 
- Look through to see if you can find a relevant volume.  Read through the issue to try to gain a better overview of the important research, developments, and challenges that relate to your field of MS&E research.
+Look through to see if you can find a relevant volume.  Read through the issue to try to gain a better overview of the important research, developments, and challenges that relate to your field of MS&E research.
 
 ##  Video Links
 
