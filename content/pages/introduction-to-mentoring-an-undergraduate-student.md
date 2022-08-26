@@ -3,7 +3,7 @@ content_type: page
 description: Introduction to mentoring, including training description, desired learning
   outcomes, and training materials for mentoring undergraduate students.
 draft: false
-title: Mentor Training and Curriculum
+title: Mentoring Syllabus and Curriculum
 uid: 7d80c17f-1460-439d-a1ce-ed9e670f50aa
 ---
 ## Training Description
