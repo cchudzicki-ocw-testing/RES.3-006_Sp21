@@ -5,7 +5,7 @@ draft: false
 title: 'Section 3: Effective and Inclusive Communication in a Remote Setup'
 uid: 163d938a-365d-4588-9a32-55a854de92bb
 ---
-## Section 3: Effective and inclusive communication in a remote setup (1 hour)
+## (1 hour)
 
 ### Objectives
 
