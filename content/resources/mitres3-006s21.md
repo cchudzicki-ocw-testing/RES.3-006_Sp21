@@ -5,9 +5,13 @@ draft: false
 file: /courses/res-3-006-micro-mentoring-resources-and-materials-science-curriculum-spring-2021/mitres3-006s21.jpg
 file_type: image/jpeg
 image_metadata:
-  caption: ''
+  caption: "A mentoring map is a tool to map one\u2019s current mentoring network,\
+    \ identify unmet needs, and plan how to expand the existing network to meet one\u2019\
+    s goals."
   credit: ''
-  image-alt: ''
+  image-alt: 'Mentoring map diagram with infographics representing nine threads: feedback,
+    professional development, sponsorship, emotional support, opportunities, role
+    models, accountability, intellectual community, and safe space.'
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
@@ -23,3 +27,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
+A mentoring map is a tool to map one’s current mentoring network, identify unmet needs, and plan how to expand the existing network to meet one’s goals. (Image: Mentoring map diagram.)
