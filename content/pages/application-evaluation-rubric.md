@@ -2,7 +2,7 @@
 content_type: page
 description: This section details the rubric set forth for student application evaluations.
 draft: false
-title: Application Evaluation Rubric
+title: Student Application Evaluation Rubric
 uid: 80e34d94-aa1f-45ba-ad92-625b174ae5db
 ---
 {{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
