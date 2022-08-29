@@ -16,27 +16,27 @@ leftnav:
   url: /pages/application-evaluation-rubric
   weight: 40
 - identifier: 09cf4fcb-4d3d-4086-8250-c60791e33d90
-  name: Section 1
+  name: 'Section 1: Defining a Research Project and Aligning Expectations'
   parent: 7d80c17f-1460-439d-a1ce-ed9e670f50aa
   url: /pages/mentor-training-section-1-defining-a-research-project-and-aligning-expectations
   weight: 10
 - identifier: 5bdf2c96-3e72-4285-99dd-9897c6343383
-  name: Section 2
+  name: 'Section 2: Planning and Managing Remote Research Tasks'
   parent: 7d80c17f-1460-439d-a1ce-ed9e670f50aa
   url: /pages/section-2-planning-and-managing-remote-research-tasks
   weight: 20
 - identifier: 163d938a-365d-4588-9a32-55a854de92bb
-  name: Section 3
+  name: 'Section 3: Effective and Inclusive Communication in a Remote Setup'
   parent: 7d80c17f-1460-439d-a1ce-ed9e670f50aa
   url: /pages/section-3-effective-and-inclusive-communication-in-a-remote-setup
   weight: 30
 - identifier: 57466062-1c6b-4936-b95e-874b1fc87d27
-  name: Section 4
+  name: 'Section 4: Fostering Independence'
   parent: 7d80c17f-1460-439d-a1ce-ed9e670f50aa
   url: /pages/section-4-fostering-independence
   weight: 40
 - identifier: b67cd873-8b13-4f8c-a3d0-0723237bfdf7
-  name: Section 5
+  name: 'Section 5: Prepare the End-of-term Discussion'
   parent: 7d80c17f-1460-439d-a1ce-ed9e670f50aa
   url: /pages/section-5-prepare-the-end-of-term-discussion
   weight: 50
