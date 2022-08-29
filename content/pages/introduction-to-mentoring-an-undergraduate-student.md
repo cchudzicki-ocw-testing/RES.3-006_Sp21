@@ -25,7 +25,7 @@ By the end of this training, mentors will be able to:
 
 Training will synthesize material from the following references.
 
-- Entering Mentoring: First Edition, Christine Pfund, Janet Branchaw, and Jo Handelsman, W. H. Freeman, 2015, ISBN:9781464184901.
+- Entering Mentoring: First Edition, Christine Pfund, Janet Branchaw, and Jo Handelsman, W. H. Freeman, 2015, ISBN: 9781464184901.
 - [Mentoring resources](https://docs.google.com/document/d/137giDqegr-fVoXL0SrcomfxTMcME3vJVgjDCK5Lrdpc/edit), courtesy of Lourdes Alemán and Benjamin Hansberry at MIT Teaching + Learning Lab, as well as the Teaching Development Fellowship Program.
 
 Additional worksheets and personalized exercises will be provided for each individual section.
