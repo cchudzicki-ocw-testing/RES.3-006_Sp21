@@ -108,7 +108,7 @@ Week 8
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
-MIT Libraries Guide-- Materials Science and Engineering: [https://libguides.mit.edu/materials](https://libguides.mit.edu/materials)
+[MIT Libraries Guide: Materials Science and Engineering](https://libguides.mit.edu/materials)
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
