@@ -30,111 +30,6 @@ Training will synthesize material from the following references.
 
 Additional worksheets and personalized exercises will be provided for each individual section.
 
-## Section 1: Defining a research project and aligning expectations (Worksheets + short recording)
-
-### Objectives
-
-At the end of this section, the mentors will be able to:
-
-- Approach early conversations with their mentees to go over *shared goals and expectations* for the research project.
-- Apply the *backward project design* approach to turn the long-term project goals into achievable milestones and then into specific weekly tasks to be fulfilled by the undergraduate researcher.
-- Identify collaboratively with the undergraduate student the skills or prerequisites required for each task and milestone to get the project started.
-
-### Description
-
-This unit will focus on tools that can be used in defining the research project and identifying the role and contribution of the undergraduate mentee. The goal of this unit is to provide the mentors with a clear methodology to work from the long-term research goal to the daily/weekly tasks to be performed by the mentee. In order to understand the importance of a well-defined research project, the section will open with a reflection on what each individual has identified as attributes that made their past research experience as mentees a positive or negative experience. Attributes that make people good mentors as well as characteristics of a well-defined research project will be presented. Common pitfalls such as ill-defined norms and expectations, lack of communication, and lack of variety in the proposed tasks will be covered, along with strategies to avoid these potential issues.
-
-### Supporting material
-
-Mentors will be provided with a list of guiding questions to prepare for their first conversation with the undergraduate researcher. Every mentor will also receive worksheets providing multiple frameworks for the *backward project design* approach. They will be invited to use it in one of their first meetings with their mentee in order to develop a semester plan to meet the goals and milestones of the undergraduate research project.
-
-- {{% resource_link "58b71658-ae75-42b9-b720-63b04313b028" "Section 1 General Worksheet (PDF)" %}}
-- Blank Worksheet to fill: {{% resource_link "1e5746fc-bb50-43e8-a5e3-a78d441c5fdc" "Backwards design approach to define the research project (PDF)" %}}
-- Blank Worksheet to fill: {{% resource_link "8e009039-c8ad-46f1-b505-a40c464ad271" "Backwards design approach to define required knowledge and skills (PDF)" %}}
-
-## Section 2: Planning and managing remote research tasks (30 min-1 hour)
-
-### Objectives
-
-At the end of this section, the mentors will be able to:
-
-- Evaluate the mentees’ existing skills and organization scheme and provide them with the relevant resources to expand their knowledge to accomplish defined research tasks.
-- Collaboratively set standards for file structures that are meant to be shared such as data, reports, codes, notebooks, etc.
-- Effectively lead regular check-in meetings with the undergraduate researcher that address the work accomplished in the past and define the short-term goals before the following check-in.
-- Provide the undergraduate researcher with a flexible and comfortable lab experience and contribute to their scientific development through a variety of activities.
-
-### Description
-
-This unit will cover the basics of managing an undergraduate research project as the term progresses. The goal of this unit is to provide the mentor with topics to be addressed in regular check-ins as well as how to generate involvement and a sense of belonging for the undergraduate researcher. Topics covered will go from discussing lab culture, standards for authorship credit, shared experience, and advice to addressing the work that has been done since the last regular check-in and planning the future short-term goals and tasks to accomplish until the following meeting. Providing undergraduate researchers with a fulfilling learning and flexible experience that enhances their confidence and skills will be emphasized. Additional discussion will touch on the topic of sharing and storing data to enable reproducibility of the work, specifically applied to remote research.
-
-### Supporting material
-
-Mentors will be provided with a list of sample topics to address in regular check-in meetings as well as a list of potential integrated development environments/text editors and tips and tricks to structure computational data. We will also provide a list of strategies and teaching tools to encourage undergraduate researchers to learn how to independently debug their code.
-
-{{% resource_link "06bad193-8257-4758-a19a-907a4eec607f" "Section 2 Worksheet (PDF)" %}}
-
-## Section 3: Effective and inclusive communication in a remote setup (1 hour)
-
-### Objectives
-
-At the end of this section, the mentors will be able to:
-
-- Define and address stereotype threat and its impact on academic and research performance.
-- Provide constructive critical feedback in an inclusive manner, with a focus on encouraging undergraduate students to achieve their full potential.
-- Handle “zoom fatigue” and the schedule flexibility of the remote setup through diversity in communication channels.
-- Communicate constructively about mistakes, failures, or lapses in research on both sides of the mentor-mentee relationship.
-- Adapt mentoring and communication strategies to the situation faced by both the mentor and mentee.
-
-### Description
-
-This unit will focus on communication practices and adapted practices to the remote setup. The goal of this section is to provide the mentors with tools and guidance on building healthy, constructive, and adaptable communication practices with their mentees. We will introduce the concept of stereotype threat and its impact on academic or research underperformance of high-achieving students. From there, we will provide a methodology to reduce stereotype threat and provide constructive critical feedback to the undergraduate researcher. Additional discussion will touch on conflict management, empathy, and adapting communication strategies for the mentor and the mentee.
-
-### Supporting material
-
-Mentors will be provided with a couple of self-assessment documents to evaluate their criticism strategy and their reaction to model criticism statements. They will also receive some guiding questions to discuss stereotype threats in pairs and a summary of strategies to reduce stereotype threats in the workplace.
-
-{{% resource_link "f8f30789-fe13-4daf-8212-e7abb7222feb" "Section 3 Worksheet (PDF)" %}}
-
-## Section 4: Fostering independence (30 min)
-
-### Objectives
-
-At the end of this section, the mentors will be able to:
-
-- Build their mentee’s self-confidence to conduct independent research
-- Assist their mentee in pursuing their future career steps, both short- and long-term.
-- Encourage the undergraduate student in developing a network of mentors they can go to for guidance and help on a variety of issues.
-- Encourage and harness their mentee creativity in actively participating in planning their future and that of the research project.
-
-### Description
-
-This unit will focus on progressively promoting independent research approaches for the undergraduate researcher as they gain experience and knowledge in the mentor’s research field. The goal of this section is to provide the mentors with means to encourage the undergraduate student to gradually shift towards independent critical thinking and research, to promote a well-rounded experience where the mentee develops a strong fundamental understanding of the research project in which they are involved. We will cover various recommendations to give to the undergraduate researcher to foster their independence and help them develop a deep understanding of their project, such as encouraging them to dive into the literature by themselves, attend poster sessions, conferences, seminars, journal clubs, etc. We will lead a discussion on how mentors learned themselves how to be independent researchers and how they have developed a network of people to support them. Mentors will be encouraged to conduct a similar exercise with their mentees.
-
-### Supporting material
-
-The mentors will be provided with a “mentoring map” worksheet that they will be asked to complete for themselves in order to reflect on the network of resources they have access to. They will then be invited to share the tool with their undergraduate researcher to help them identify resources they already have access to and that they are currently missing.
-
-- {{% resource_link "408b8fa9-6d2f-4997-ae6f-962ad683ae1f" "Section 4 Worksheet (PDF)" %}}
-- {{% resource_link "c9757904-4ce0-49b1-81d8-1b4e410bad88" "Mentoring Map Worksheet (PDF)" %}}
-
-## Section 5: Prepare the end-of-term discussion (30 min)
-
-### Objectives
-
-At the end of this section, the mentors will be able to:
-
-- Emphasize the accomplishments resulting from this semester and compare them to the expectations set at the beginning of the semester.
-- If the student is continuing, plan the research project for the following semester.
-- Provide and receive constructive feedback on the work conducted and the mentor-mentee relationship
-
-### Description
-
-This unit will focus on organizing and leading the end-of-term discussion. The goal is to teach the mentors how to lead a discussion for both the mentor and mentee to collect feedback and reflect on their experiences. We will provide a reminder on providing critical feedback in a constructive way and propose sample topics that can be brought up at the end of the semester. We will also develop communication schemes based on I-statements and open question formulation to encourage open discussion between the mentor and the mentee.
-
-### Supporting material
-
-The mentors will be provided with a list of sample topics that can be brought up at the end-of-term discussion, along with some additional material on how to conduct a constructive and open conversation.
-
 ## Tentative training schedule
 
 {{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
@@ -142,23 +37,23 @@ The mentors will be provided with a list of sample topics that can be brought up
 {{< tdclose >}}{{< tdopen >}}
 **Week**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Section 1: Defining a research project and aligning expectations
+{{% resource_link "09cf4fcb-4d3d-4086-8250-c60791e33d90" "Section 1: Defining a research project and aligning expectations" %}}
 {{< tdclose >}}{{< tdopen >}}
 Week 2
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Section 2: Planning and managing remote research tasks
+{{% resource_link "5bdf2c96-3e72-4285-99dd-9897c6343383" "Section 2: Planning and managing remote research tasks" %}}
 {{< tdclose >}}{{< tdopen >}}
 Week 5
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Section 3: Effective and inclusive communication in a remote setup
+{{% resource_link "163d938a-365d-4588-9a32-55a854de92bb" "Section 3: Effective and inclusive communication in a remote setup" %}}
 {{< tdclose >}}{{< tdopen >}}
 Week 7
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Section 4: Fostering independence
+{{% resource_link "57466062-1c6b-4936-b95e-874b1fc87d27" "Section 4: Fostering independence" %}}
 {{< tdclose >}}{{< tdopen >}}
 Week 9
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Section 5: Prepare the end-of-term discussion
+{{% resource_link "b67cd873-8b13-4f8c-a3d0-0723237bfdf7" "Section 5: Prepare the end-of-term discussion" %}}
 {{< tdclose >}}{{< tdopen >}}
 Week 13
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
