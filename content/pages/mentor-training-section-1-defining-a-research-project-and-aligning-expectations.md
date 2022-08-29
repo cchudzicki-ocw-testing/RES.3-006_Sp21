@@ -2,7 +2,7 @@
 content_type: page
 description: MICRO mentor training section 1.
 draft: false
-title: 'Mentor Training Section 1: Defining a Research Project and Aligning Expectations'
+title: 'Section 1: Defining a Research Project and Aligning Expectations'
 uid: 09cf4fcb-4d3d-4086-8250-c60791e33d90
 ---
 ## Section 1: Defining a research project and aligning expectations (Worksheets + short recording)
