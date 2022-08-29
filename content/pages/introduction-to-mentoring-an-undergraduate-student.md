@@ -55,5 +55,5 @@ Week 9
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "b67cd873-8b13-4f8c-a3d0-0723237bfdf7" "Section 5: Prepare the end-of-term discussion" %}}
 {{< tdclose >}}{{< tdopen >}}
-Week 13
+Week&nbsp;13
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
