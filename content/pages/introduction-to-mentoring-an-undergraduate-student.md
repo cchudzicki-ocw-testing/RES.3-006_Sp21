@@ -48,9 +48,9 @@ This unit will focus on tools that can be used in defining the research project 
 
 Mentors will be provided with a list of guiding questions to prepare for their first conversation with the undergraduate researcher. Every mentor will also receive worksheets providing multiple frameworks for the *backward project design* approach. They will be invited to use it in one of their first meetings with their mentee in order to develop a semester plan to meet the goals and milestones of the undergraduate research project.
 
-- [General Worksheet](https://www.dropbox.com/s/qnuahchmychcn0k/Section_1_worksheet_v1%20copy.pdf?dl=0)
-- Blank Worksheet to fill  - [Backwards design approach to define the research project.](https://www.dropbox.com/s/fiwtt3z29acl0xd/Baclwards_task_definition%20copy.pdf?dl=0)
-- Blank Worksheet to fill - [Backwards design approach to define required knowledge and skills.](https://www.dropbox.com/s/0i7uy2zwoimry37/Baclwards_skills_definition%20copy.pdf?dl=0) 
+- Section 1 General Worksheet (PDF)
+- Blank Worksheet to fill: Backwards design approach to define the research project (PDF)
+- Blank Worksheet to fill: Backwards design approach to define required knowledge and skills (PDF)
 
 ## Section 2: Planning and managing remote research tasks (30 min-1 hour)
 
@@ -71,6 +71,8 @@ This unit will cover the basics of managing an undergraduate research project as
 
 Mentors will be provided with a list of sample topics to address in regular check-in meetings as well as a list of potential integrated development environments/text editors and tips and tricks to structure computational data. We will also provide a list of strategies and teaching tools to encourage undergraduate researchers to learn how to independently debug their code.
 
+Section 2 Worksheet (PDF)
+
 ## Section 3: Effective and inclusive communication in a remote setup (1 hour)
 
 ### Objectives
@@ -90,6 +92,8 @@ This unit will focus on communication practices and adapted practices to the rem
 ### Supporting material
 
 Mentors will be provided with a couple of self-assessment documents to evaluate their criticism strategy and their reaction to model criticism statements. They will also receive some guiding questions to discuss stereotype threats in pairs and a summary of strategies to reduce stereotype threats in the workplace.
+
+Section 3 Worksheet (PDF)
 
 ## Section 4: Fostering independence (30 min)
 
@@ -128,6 +132,8 @@ This unit will focus on organizing and leading the end-of-term discussion. The g
 
 The mentors will be provided with a list of sample topics that can be brought up at the end-of-term discussion, along with some additional material on how to conduct a constructive and open conversation.
 
+Section 4 Worksheet (PDF)
+
 ## Tentative training schedule
 
 {{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
@@ -137,21 +143,21 @@ The mentors will be provided with a list of sample topics that can be brought up
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Section 1: Defining a research project and aligning expectations
 {{< tdclose >}}{{< tdopen >}}
-9/20/2021-9/24/2021
+Week 2
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Section 2: Planning and managing remote research tasks
 {{< tdclose >}}{{< tdopen >}}
-10/11/2021-10/15/2021
+Week 5
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Section 3: Effective and inclusive communication in a remote setup
 {{< tdclose >}}{{< tdopen >}}
-10/25/2021-10/29/2021
+Week 7
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Section 4: Fostering independence
 {{< tdclose >}}{{< tdopen >}}
-11/15/2021-11/19/2021
+Week 9
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Section 5: Prepare the end-of-term discussion
 {{< tdclose >}}{{< tdopen >}}
-12/6/2021-12/10/2021
+Week 13
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
