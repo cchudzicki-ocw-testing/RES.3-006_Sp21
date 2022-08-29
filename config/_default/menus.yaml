@@ -3,7 +3,20 @@ leftnav:
   name: About MICRO
   url: /pages/micro-initiative
   weight: 10
-- identifier: b86f62d8-591c-4792-bf6a-b241dcfeb111
-  name: MICRO Curriculum
-  url: /pages/curriculum
+- identifier: 7d80c17f-1460-439d-a1ce-ed9e670f50aa
+  name: Mentoring Syllabus and Curriculum
+  url: /pages/introduction-to-mentoring-an-undergraduate-student
   weight: 20
+- identifier: b86f62d8-591c-4792-bf6a-b241dcfeb111
+  name: Materials Science Curriculum
+  url: /pages/curriculum
+  weight: 30
+- identifier: 80e34d94-aa1f-45ba-ad92-625b174ae5db
+  name: MICRO Application Evaluation Rubric
+  url: /pages/application-evaluation-rubric
+  weight: 40
+- identifier: b8baf098-b503-4d0b-b2c6-960822ad96fb
+  name: Communications Assignments
+  parent: b86f62d8-591c-4792-bf6a-b241dcfeb111
+  url: /pages/micro-communications-assignments
+  weight: 10
