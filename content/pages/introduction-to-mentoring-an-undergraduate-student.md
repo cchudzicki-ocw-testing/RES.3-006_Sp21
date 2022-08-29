@@ -15,7 +15,7 @@ This training introduces the main competencies for graduate students and researc
 By the end of this training, mentors will be able to:
 
 - Articulate expectations for the research project based on shared goals.
-- Define the undergraduate research project in terms of manageable scope, the relevant milestones, and means to measure progress.
+- Define the undergraduate research project in terms of manageable scope, the relevant milestones, and the means to measure progress.
 - Structure remote undergraduate mentoring and implement tools for information and data sharing.
 - Provide critical feedback in a constructive and inclusive way to the mentee to assist them in reaching their full research potential.
 - Foster mentee independence through the development of a network of mentors that they can reach out to for guidance and help on relevant questions.
@@ -25,7 +25,7 @@ By the end of this training, mentors will be able to:
 
 Training will synthesize material from the following references.
 
-- Entering Mentoring: First Edition, Christine Pfund, Janet Branchaw, and Jo Handelsman, W. H. Freeman, 2015, ISBN: 9781464184901.
+- *Entering Mentoring*: First Edition, Christine Pfund, Janet Branchaw, and Jo Handelsman, W. H. Freeman, 2015, ISBN: 9781464184901.
 - [Mentoring resources](https://docs.google.com/document/d/137giDqegr-fVoXL0SrcomfxTMcME3vJVgjDCK5Lrdpc/edit), courtesy of Lourdes Alemán and Benjamin Hansberry at MIT Teaching + Learning Lab, as well as the Teaching Development Fellowship Program.
 
 Additional worksheets and personalized exercises will be provided for each individual section.
@@ -48,9 +48,9 @@ This unit will focus on tools that can be used in defining the research project 
 
 Mentors will be provided with a list of guiding questions to prepare for their first conversation with the undergraduate researcher. Every mentor will also receive worksheets providing multiple frameworks for the *backward project design* approach. They will be invited to use it in one of their first meetings with their mentee in order to develop a semester plan to meet the goals and milestones of the undergraduate research project.
 
-- Section 1 General Worksheet (PDF)
-- Blank Worksheet to fill: Backwards design approach to define the research project (PDF)
-- Blank Worksheet to fill: Backwards design approach to define required knowledge and skills (PDF)
+- {{% resource_link "58b71658-ae75-42b9-b720-63b04313b028" "Section 1 General Worksheet (PDF)" %}}
+- Blank Worksheet to fill: {{% resource_link "1e5746fc-bb50-43e8-a5e3-a78d441c5fdc" "Backwards design approach to define the research project (PDF)" %}}
+- Blank Worksheet to fill: {{% resource_link "8e009039-c8ad-46f1-b505-a40c464ad271" "Backwards design approach to define required knowledge and skills (PDF)" %}}
 
 ## Section 2: Planning and managing remote research tasks (30 min-1 hour)
 
@@ -65,13 +65,13 @@ At the end of this section, the mentors will be able to:
 
 ### Description
 
-This unit will cover the basics of managing an undergraduate research project as the term progresses. The goal of this unit is to provide the mentor with topics to be addressed in regular check-ins as well as how to generate involvement and a sense of belonging for the undergraduate researcher. Topics covered will go from discussing lab culture, standards for authorship credit, shared experience, and advice to addressing the work that has been done since the last regular check-in and planning the future short-term goals and tasks to accomplish until the following meeting. Providing the undergraduate researcher with a fulfilling learning and flexible experience that enhances their confidence and skills will be emphasized. Additional discussion will touch on the topic of sharing and storing data to enable reproducibility of the work, specifically applied to remote research.
+This unit will cover the basics of managing an undergraduate research project as the term progresses. The goal of this unit is to provide the mentor with topics to be addressed in regular check-ins as well as how to generate involvement and a sense of belonging for the undergraduate researcher. Topics covered will go from discussing lab culture, standards for authorship credit, shared experience, and advice to addressing the work that has been done since the last regular check-in and planning the future short-term goals and tasks to accomplish until the following meeting. Providing undergraduate researchers with a fulfilling learning and flexible experience that enhances their confidence and skills will be emphasized. Additional discussion will touch on the topic of sharing and storing data to enable reproducibility of the work, specifically applied to remote research.
 
 ### Supporting material
 
 Mentors will be provided with a list of sample topics to address in regular check-in meetings as well as a list of potential integrated development environments/text editors and tips and tricks to structure computational data. We will also provide a list of strategies and teaching tools to encourage undergraduate researchers to learn how to independently debug their code.
 
-Section 2 Worksheet (PDF)
+{{% resource_link "06bad193-8257-4758-a19a-907a4eec607f" "Section 2 Worksheet (PDF)" %}}
 
 ## Section 3: Effective and inclusive communication in a remote setup (1 hour)
 
@@ -93,7 +93,7 @@ This unit will focus on communication practices and adapted practices to the rem
 
 Mentors will be provided with a couple of self-assessment documents to evaluate their criticism strategy and their reaction to model criticism statements. They will also receive some guiding questions to discuss stereotype threats in pairs and a summary of strategies to reduce stereotype threats in the workplace.
 
-Section 3 Worksheet (PDF)
+{{% resource_link "f8f30789-fe13-4daf-8212-e7abb7222feb" "Section 3 Worksheet (PDF)" %}}
 
 ## Section 4: Fostering independence (30 min)
 
@@ -108,11 +108,14 @@ At the end of this section, the mentors will be able to:
 
 ### Description
 
-This unit will focus on progressively promoting independent research approaches for the undergraduate researcher as they gain experience and knowledge in the mentor’s research field. The goal of this section is to provide the mentors with means to encourage the undergraduate student to gradually shift towards independent critical thinking and research, to promote a well-rounded experience where the mentee develops a strong fundamental understanding of the research project in which they are involved. We will cover various recommendations to give to the undergraduate researcher to foster their independence and help them develop a deep understanding of their project, such as encouraging them to dive in the literature by themselves, attend poster sessions, conferences, seminars, journal clubs, etc. We will lead a discussion on how mentors learned themselves how to be independent researchers and how they have developed a network of people to support them. Mentors will be encouraged to conduct a similar exercise with their mentees.
+This unit will focus on progressively promoting independent research approaches for the undergraduate researcher as they gain experience and knowledge in the mentor’s research field. The goal of this section is to provide the mentors with means to encourage the undergraduate student to gradually shift towards independent critical thinking and research, to promote a well-rounded experience where the mentee develops a strong fundamental understanding of the research project in which they are involved. We will cover various recommendations to give to the undergraduate researcher to foster their independence and help them develop a deep understanding of their project, such as encouraging them to dive into the literature by themselves, attend poster sessions, conferences, seminars, journal clubs, etc. We will lead a discussion on how mentors learned themselves how to be independent researchers and how they have developed a network of people to support them. Mentors will be encouraged to conduct a similar exercise with their mentees.
 
 ### Supporting material
 
 The mentors will be provided with a “mentoring map” worksheet that they will be asked to complete for themselves in order to reflect on the network of resources they have access to. They will then be invited to share the tool with their undergraduate researcher to help them identify resources they already have access to and that they are currently missing.
+
+- {{% resource_link "408b8fa9-6d2f-4997-ae6f-962ad683ae1f" "Section 4 Worksheet (PDF)" %}}
+- {{% resource_link "c9757904-4ce0-49b1-81d8-1b4e410bad88" "Mentoring Map Worksheet (PDF)" %}}
 
 ## Section 5: Prepare the end-of-term discussion (30 min)
 
@@ -131,8 +134,6 @@ This unit will focus on organizing and leading the end-of-term discussion. The g
 ### Supporting material
 
 The mentors will be provided with a list of sample topics that can be brought up at the end-of-term discussion, along with some additional material on how to conduct a constructive and open conversation.
-
-Section 4 Worksheet (PDF)
 
 ## Tentative training schedule
 
