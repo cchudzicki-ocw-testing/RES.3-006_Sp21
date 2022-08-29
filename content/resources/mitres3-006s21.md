@@ -27,4 +27,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
-A mentoring map is a tool to map one’s current mentoring network, identify unmet needs, and plan how to expand the existing network to meet one’s goals. (Image: Mentoring map diagram.)
+The mentoring map tool helps to visualize an individual's current mentoring network, identify unmet needs, and plan how to expand the existing network to meet the person's goals. (Image: Mentoring map diagram.)
