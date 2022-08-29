@@ -98,7 +98,7 @@ Week 7
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
-\* No video this week, but take a look at the Literature Review instructions below.
+\* No video this week, but take a look at the first step of the Literature Review, instructions below.
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
@@ -165,7 +165,7 @@ Develop final presentation
 Final MICRO Presentations
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
- \* Literature Review, Step 1: To begin your literature review, take a look at the [Materials Research Society’s archive of the MRS Bulletin](https://link.springer.com/journal/43577/volumes-and-issues).  Written for the broader scientific community, the MRS Bulletin focuses on a specific topic currently of interest in the field of MS&E. Look through to see if you can find a relevant volume.  Read through the issue to try to gain a better overview of the important research, developments, and challenges that relate to your field of MS&E research.
+ \* Literature Review Step 1: To begin your literature review, take a look at the [Materials Research Society’s archive of the MRS Bulletin](https://link.springer.com/journal/43577/volumes-and-issues).  Written for the broader scientific community, the MRS Bulletin focuses on a specific topic currently of interest in the field of MS&E. Look through to see if you can find a relevant volume.  Read through the issue to try to gain a better overview of the important research, developments, and challenges that relate to your field of MS&E research.
 
 ## Video Links
 
