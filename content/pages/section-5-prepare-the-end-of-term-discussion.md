@@ -5,7 +5,7 @@ draft: false
 title: 'Section 5: Prepare the End-of-term Discussion'
 uid: b67cd873-8b13-4f8c-a3d0-0723237bfdf7
 ---
-## Section 5: Prepare the end-of-term discussion (30 min)
+## (30 min)
 
 ### Objectives
 
