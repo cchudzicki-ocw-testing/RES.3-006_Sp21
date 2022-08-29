@@ -26,8 +26,6 @@ Then, you will do one of the following:
 1.  Write an academic literature review that describes the current state of research regarding your material(s) of interest.  Your literature review should reflect, in length and style, the introductory section of a scientific paper.
 2. Write an article or blog post directed to a general audience that describes your material and explains why research into this material is important and exciting.
 
-Step 1: To begin your literature review, 
-
  Your literature review will also be helpful for completing Assignment 3, below.
 
 ### Assignment 3: Final Project
