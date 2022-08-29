@@ -5,7 +5,7 @@ draft: false
 title: 'Section 4: Fostering Independence'
 uid: 57466062-1c6b-4936-b95e-874b1fc87d27
 ---
-## Section 4: Fostering independence (30 min)
+## (30 min)
 
 ### Objectives
 
