@@ -9,7 +9,7 @@ image_metadata:
     \ identify unmet needs, and plan how to expand the existing network to meet one\u2019\
     s goals."
   credit: ''
-  image-alt: 'Mentoring map diagram with infographics representing nine threads: feedback,
+  image-alt: 'Mentoring map diagram, includes an infographic for each thread: feedback,
     professional development, sponsorship, emotional support, opportunities, role
     models, accountability, intellectual community, and safe space.'
 learning_resource_types: []
