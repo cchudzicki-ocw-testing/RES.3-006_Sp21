@@ -2,7 +2,7 @@
 content_type: page
 description: Details are outlined here on student assignments.
 draft: false
-title: MICRO Communications Assignments
+title: Student Communications Assignments
 uid: b8baf098-b503-4d0b-b2c6-960822ad96fb
 ---
 There are three communications-focused assignments that are due over the course of the Fall Semester of the MICRO Program. You can find descriptions of all three assignments below:
