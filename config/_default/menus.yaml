@@ -15,6 +15,31 @@ leftnav:
   name: MICRO Application Evaluation Rubric
   url: /pages/application-evaluation-rubric
   weight: 40
+- identifier: 09cf4fcb-4d3d-4086-8250-c60791e33d90
+  name: Section 1
+  parent: 7d80c17f-1460-439d-a1ce-ed9e670f50aa
+  url: /pages/mentor-training-section-1-defining-a-research-project-and-aligning-expectations
+  weight: 10
+- identifier: 5bdf2c96-3e72-4285-99dd-9897c6343383
+  name: Section 2
+  parent: 7d80c17f-1460-439d-a1ce-ed9e670f50aa
+  url: /pages/section-2-planning-and-managing-remote-research-tasks
+  weight: 20
+- identifier: 163d938a-365d-4588-9a32-55a854de92bb
+  name: Section 3
+  parent: 7d80c17f-1460-439d-a1ce-ed9e670f50aa
+  url: /pages/section-3-effective-and-inclusive-communication-in-a-remote-setup
+  weight: 30
+- identifier: 57466062-1c6b-4936-b95e-874b1fc87d27
+  name: Section 4
+  parent: 7d80c17f-1460-439d-a1ce-ed9e670f50aa
+  url: /pages/section-4-fostering-independence
+  weight: 40
+- identifier: b67cd873-8b13-4f8c-a3d0-0723237bfdf7
+  name: Section 5
+  parent: 7d80c17f-1460-439d-a1ce-ed9e670f50aa
+  url: /pages/section-5-prepare-the-end-of-term-discussion
+  weight: 50
 - identifier: b8baf098-b503-4d0b-b2c6-960822ad96fb
   name: Communications Assignments
   parent: b86f62d8-591c-4792-bf6a-b241dcfeb111
