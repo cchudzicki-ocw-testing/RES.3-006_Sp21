@@ -5,8 +5,6 @@ draft: false
 title: 'Section 1: Defining a Research Project and Aligning Expectations'
 uid: 09cf4fcb-4d3d-4086-8250-c60791e33d90
 ---
-## (Worksheets + short recording)
-
 ### Objectives
 
 At the end of this section, the mentors will be able to:
