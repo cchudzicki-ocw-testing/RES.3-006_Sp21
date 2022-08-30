@@ -2,7 +2,7 @@
 content_type: page
 description: MICRO mentor training section 5.
 draft: false
-title: 'Section 5: Prepare the End-of-term Discussion'
+title: 'Section 5: Prepare the End-of-Term Discussion'
 uid: b67cd873-8b13-4f8c-a3d0-0723237bfdf7
 ---
 ### Duration: 30 min
