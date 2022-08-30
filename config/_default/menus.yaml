@@ -37,7 +37,7 @@ leftnav:
   url: /pages/section-4-fostering-independence
   weight: 40
 - identifier: b67cd873-8b13-4f8c-a3d0-0723237bfdf7
-  name: 'Section 5: Prepare the End-of-term Discussion'
+  name: 'Section 5: Prepare the End-of-Term Discussion'
   parent: 7d80c17f-1460-439d-a1ce-ed9e670f50aa
   url: /pages/section-5-prepare-the-end-of-term-discussion
   weight: 50
