@@ -8,6 +8,6 @@ uid: c3467224-c1d6-43fe-8e3b-dccdd6dae60c
 ---
 MICRO is the [*Materials Initiative for Comprehensive Research Opportunity*](https://micro.mit.edu/) created to provide a remote research and education experience to undergraduate students who are members of groups historically underrepresented in science and technology. The program offers participants the ability to conduct cutting-edge materials research with MIT faculty while simultaneously being taught the fundamentals of materials science.
 
-The MICRO initiative was developed by graduate students in the MIT Department of Materials Science and Engineering (DMSE) and was initially supported by MIT Open Learning’s J-WEL foundation.
+The MICRO initiative was developed by graduate students and faculty in the [MIT Department of Materials Science and Engineering (DMSE)](https://dmse.mit.edu/) and was initially supported by MIT Open Learning’s J-WEL foundation.
 
 This resource presents a set of {{% resource_link "7d80c17f-1460-439d-a1ce-ed9e670f50aa" "mentoring resources" %}} along with a {{% resource_link "b86f62d8-591c-4792-bf6a-b241dcfeb111" "materials science and engineering curriculum" %}} curated for this initiative.
