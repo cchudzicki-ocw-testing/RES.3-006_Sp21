@@ -11,7 +11,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: MITRES3_006SP21_Section_4_worksheet.pdf
+title: Section 4 Worksheet
 uid: 408b8fa9-6d2f-4997-ae6f-962ad683ae1f
 video_files:
   video_captions_file: ''
