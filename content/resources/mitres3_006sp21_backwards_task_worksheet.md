@@ -11,7 +11,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: MITRES3_006SP21_backwards_task_worksheet.pdf
+title: Backwards Task Worksheet
 uid: 1e5746fc-bb50-43e8-a5e3-a78d441c5fdc
 video_files:
   video_captions_file: ''
