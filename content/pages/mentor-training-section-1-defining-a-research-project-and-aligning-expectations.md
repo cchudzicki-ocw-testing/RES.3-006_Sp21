@@ -17,7 +17,7 @@ At the end of this section, the mentors will be able to:
 
 This unit will focus on tools that can be used in defining the research project and identifying the role and contribution of the undergraduate mentee. The goal of this unit is to provide the mentors with a clear methodology to work from the long-term research goal to the daily/weekly tasks to be performed by the mentee. In order to understand the importance of a well-defined research project, the section will open with a reflection on what each individual has identified as attributes that made their past research experience as mentees a positive or negative experience. Attributes that make people good mentors as well as characteristics of a well-defined research project will be presented. Common pitfalls such as ill-defined norms and expectations, lack of communication, and lack of variety in the proposed tasks will be covered, along with strategies to avoid these potential issues.
 
-## Supporting material
+## Supporting Material
 
 Mentors will be provided with a list of guiding questions to prepare for their first conversation with the undergraduate researcher. Every mentor will also receive worksheets providing multiple frameworks for the *backward project design* approach. They will be invited to use it in one of their first meetings with their mentee in order to develop a semester plan to meet the goals and milestones of the undergraduate research project.
 
