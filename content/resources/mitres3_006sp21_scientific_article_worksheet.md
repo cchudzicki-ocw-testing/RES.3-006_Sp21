@@ -11,7 +11,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: MITRES3_006SP21_scientific_article_worksheet.pdf
+title: Scientific Article Worksheet
 uid: 0ff7d177-2a07-4c34-8106-b86c1cdb0919
 video_files:
   video_captions_file: ''
