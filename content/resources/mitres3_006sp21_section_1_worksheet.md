@@ -11,7 +11,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: MITRES3_006SP21_Section_1_worksheet.pdf
+title: Section 1 Worksheet
 uid: 58b71658-ae75-42b9-b720-63b04313b028
 video_files:
   video_captions_file: ''
