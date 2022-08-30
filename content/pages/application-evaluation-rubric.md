@@ -154,12 +154,6 @@ uid: 80e34d94-aa1f-45ba-ad92-625b174ae5db
 - No involvement in extracurricular activities or clearly defined commitment to diversity.
 - Does not present clear motivations for a research career.
 
- 
-
- 
-
- 
-
 {{< tdclose >}}{{< tdopen >}}
 
 - The student has limited **in-semester** research experience, community service engagement, or outside student job (one semester or less).
@@ -172,19 +166,13 @@ uid: 80e34d94-aa1f-45ba-ad92-625b174ae5db
 - The student has **in-semester** research experience, community service engagement, or outside student job (1 – 2 years).
 - The student has conducted research or work remotely before.
 - Strong commitment to community and/or diversity as evidenced through community or extracurricular involvement
-- Clearly articulates their motivation for pursing a research career.   
-
- 
-
- 
+- Clearly articulates their motivation for pursing a research career.
 
 {{< tdclose >}}{{< tdopen >}}
 
 - The student has extended **in-semester** research experience (2 years or more) and community service engagement.
 - The student has both in-person and remote research experience and has shown adaptation to the remote setting.
 - Strong commitment to community and/or diversity as evidenced through community or extracurricular involvement.
-- Clearly articulates their motivation for pursing a research career. 
-
- 
+- Clearly articulates their motivation for pursing a research career.
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
