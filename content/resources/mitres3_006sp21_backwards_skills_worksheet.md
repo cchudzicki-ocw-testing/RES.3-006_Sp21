@@ -11,7 +11,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: MITRES3_006SP21_backwards_skills_worksheet.pdf
+title: Backwards Skills Worksheet
 uid: 8e009039-c8ad-46f1-b505-a40c464ad271
 video_files:
   video_captions_file: ''
