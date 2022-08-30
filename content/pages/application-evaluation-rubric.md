@@ -43,7 +43,7 @@ uid: 80e34d94-aa1f-45ba-ad92-625b174ae5db
 {{< tdclose >}}{{< tdopen >}}
 
 - Cumulative/Major ≥ 3.75.
-- Good written communication skills
+- Good written communication skills.
 - Some curriculum in STEM degree program (introductory level + some elective courses) aligned with research objectives.
 - Good academic performance in core STEM introductory courses.
 - Good performance in classes outside of the student’s major (B).
@@ -55,7 +55,7 @@ uid: 80e34d94-aa1f-45ba-ad92-625b174ae5db
 - Exceptional written communication skills.
 - Significant curriculum in STEM or degree program (at least 2 High-level/advanced courses), aligned with research objectives.
 - Excellent academic performance in advanced courses within or outside the student major.
-- Evidence of extreme maturity and high-level reflection maturity or thoughtful reflection on performance
+- Evidence of extreme maturity and high-level reflection maturity or thoughtful reflection on performance.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
@@ -151,12 +151,8 @@ uid: 80e34d94-aa1f-45ba-ad92-625b174ae5db
 
 - No mention of work experience or research experience **in parallel to coursework.**
 - The student has limited “remote research” experience.
-- No involvement in extracurricular activities or clearly defined commitment to diversity
-- Does not present clear motivations for a research career
-
- 
-
- 
+- No involvement in extracurricular activities or clearly defined commitment to diversity.
+- Does not present clear motivations for a research career.
 
  
 
@@ -166,14 +162,14 @@ uid: 80e34d94-aa1f-45ba-ad92-625b174ae5db
 
 {{< tdclose >}}{{< tdopen >}}
 
-- The student has limited **in-semester** research experience, community service engagement, or outside student job (one semester or less)
+- The student has limited **in-semester** research experience, community service engagement, or outside student job (one semester or less).
 - The student only has in-person research or student job experience.
-- Some participation in community and/or extracurricular activities
-- Motivations for pursuing a career in research are given, but are not thoroughly thought out 
+- Some participation in community and/or extracurricular activities.
+- Motivations for pursuing a career in research are given, but are not thoroughly thought out.
 
 {{< tdclose >}}{{< tdopen >}}
 
-- The student has **in-semester** research experience, community service engagement, or outside student job (1 – 2 years)
+- The student has **in-semester** research experience, community service engagement, or outside student job (1 – 2 years).
 - The student has conducted research or work remotely before.
 - Strong commitment to community and/or diversity as evidenced through community or extracurricular involvement
 - Clearly articulates their motivation for pursing a research career.   
@@ -186,7 +182,7 @@ uid: 80e34d94-aa1f-45ba-ad92-625b174ae5db
 
 - The student has extended **in-semester** research experience (2 years or more) and community service engagement.
 - The student has both in-person and remote research experience and has shown adaptation to the remote setting.
-- Strong commitment to community and/or diversity as evidenced through community or extracurricular involvement
+- Strong commitment to community and/or diversity as evidenced through community or extracurricular involvement.
 - Clearly articulates their motivation for pursing a research career. 
 
  
