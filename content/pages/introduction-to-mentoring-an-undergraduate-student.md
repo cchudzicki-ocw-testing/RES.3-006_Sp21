@@ -30,7 +30,7 @@ Training will synthesize material from the following references.
 
 Additional worksheets and personalized exercises will be provided for each individual section.
 
-## Tentative training schedule
+## Tentative Training Schedule
 
 {{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 **Section**
@@ -55,5 +55,5 @@ Week 9
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "b67cd873-8b13-4f8c-a3d0-0723237bfdf7" "Section 5: Prepare the end-of-term discussion" %}}
 {{< tdclose >}}{{< tdopen >}}
-Week&nbsp;13
+Week 13
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
