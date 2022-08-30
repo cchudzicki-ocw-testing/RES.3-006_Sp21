@@ -13,8 +13,9 @@ leftnav:
   weight: 30
 - identifier: 80e34d94-aa1f-45ba-ad92-625b174ae5db
   name: MICRO Application Evaluation Rubric
+  parent: c3467224-c1d6-43fe-8e3b-dccdd6dae60c
   url: /pages/application-evaluation-rubric
-  weight: 40
+  weight: 10
 - identifier: 09cf4fcb-4d3d-4086-8250-c60791e33d90
   name: 'Section 1: Defining a Research Project and Aligning Expectations'
   parent: 7d80c17f-1460-439d-a1ce-ed9e670f50aa
