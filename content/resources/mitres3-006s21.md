@@ -5,9 +5,9 @@ draft: false
 file: /courses/res-3-006-micro-mentoring-resources-and-materials-science-curriculum-spring-2021/mitres3-006s21.jpg
 file_type: image/jpeg
 image_metadata:
-  caption: The mentoring map tool helps to visualize an individual's current mentoring
-    network, identify unmet needs, and plan how to expand the existing network to
-    meet the person's goals.
+  caption: The mentoring map tool helps to visualize one's current mentoring network,
+    identify unmet needs, and plan how to expand the existing network to meet one's
+    goals.
   credit: ''
   image-alt: 'Mentoring map diagram, includes an infographic for each thread: feedback,
     professional development, sponsorship, emotional support, opportunities, role
