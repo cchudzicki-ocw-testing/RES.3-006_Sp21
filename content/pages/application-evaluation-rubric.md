@@ -1,6 +1,7 @@
 ---
 content_type: page
-description: This section details the rubric set forth for student application evaluations.
+description: This section details the rubric set forth for student application evaluations
+  to the MICRO program.
 draft: false
 title: Student Application Evaluation Rubric
 uid: 80e34d94-aa1f-45ba-ad92-625b174ae5db
