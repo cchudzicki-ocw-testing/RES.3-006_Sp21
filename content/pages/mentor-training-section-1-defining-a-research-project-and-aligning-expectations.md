@@ -5,7 +5,7 @@ draft: false
 title: 'Section 1: Defining a Research Project and Aligning Expectations'
 uid: 09cf4fcb-4d3d-4086-8250-c60791e33d90
 ---
-### Objectives
+## Objectives
 
 At the end of this section, the mentors will be able to:
 
@@ -13,11 +13,11 @@ At the end of this section, the mentors will be able to:
 - Apply the *backward project design* approach to turn the long-term project goals into achievable milestones and then into specific weekly tasks to be fulfilled by the undergraduate researcher.
 - Identify collaboratively with the undergraduate student the skills or prerequisites required for each task and milestone to get the project started.
 
-### Description
+## Description
 
 This unit will focus on tools that can be used in defining the research project and identifying the role and contribution of the undergraduate mentee. The goal of this unit is to provide the mentors with a clear methodology to work from the long-term research goal to the daily/weekly tasks to be performed by the mentee. In order to understand the importance of a well-defined research project, the section will open with a reflection on what each individual has identified as attributes that made their past research experience as mentees a positive or negative experience. Attributes that make people good mentors as well as characteristics of a well-defined research project will be presented. Common pitfalls such as ill-defined norms and expectations, lack of communication, and lack of variety in the proposed tasks will be covered, along with strategies to avoid these potential issues.
 
-### Supporting material
+## Supporting material
 
 Mentors will be provided with a list of guiding questions to prepare for their first conversation with the undergraduate researcher. Every mentor will also receive worksheets providing multiple frameworks for the *backward project design* approach. They will be invited to use it in one of their first meetings with their mentee in order to develop a semester plan to meet the goals and milestones of the undergraduate research project.
 
