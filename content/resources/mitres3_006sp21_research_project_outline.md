@@ -11,7 +11,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: MITRES3_006SP21_research_project_outline.pdf
+title: Research Project Outline
 uid: f8d2e6ac-177b-49af-a155-d20a81b6aa3b
 video_files:
   video_captions_file: ''
