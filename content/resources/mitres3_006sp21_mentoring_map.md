@@ -11,7 +11,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: MITRES3_006SP21_mentoring_map.pdf
+title: Mentoring Map
 uid: c9757904-4ce0-49b1-81d8-1b4e410bad88
 video_files:
   video_captions_file: ''
