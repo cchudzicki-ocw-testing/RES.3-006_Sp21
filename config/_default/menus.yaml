@@ -31,11 +31,6 @@ leftnav:
   parent: 7d80c17f-1460-439d-a1ce-ed9e670f50aa
   url: /pages/section-4-fostering-independence
   weight: 40
-- identifier: b67cd873-8b13-4f8c-a3d0-0723237bfdf7
-  name: 'Section 5: Prepare the End-of-Term Discussion'
-  parent: 7d80c17f-1460-439d-a1ce-ed9e670f50aa
-  url: /pages/section-5-prepare-the-end-of-term-discussion
-  weight: 50
 - identifier: b8baf098-b503-4d0b-b2c6-960822ad96fb
   name: Communications Assignments
   parent: b86f62d8-591c-4792-bf6a-b241dcfeb111
