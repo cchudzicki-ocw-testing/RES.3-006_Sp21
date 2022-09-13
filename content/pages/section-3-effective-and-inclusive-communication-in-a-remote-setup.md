@@ -25,4 +25,4 @@ This unit will focus on communication practices and adapted practices to the rem
 
 Mentors will be provided with a couple of self-assessment documents to evaluate their criticism strategy and their reaction to model criticism statements. They will also receive some guiding questions to discuss stereotype threats in pairs and a summary of strategies to reduce stereotype threats in the workplace.
 
-Section 3 Worksheet (PDF)
+{{% resource_link "84db93e8-bdf4-40ba-b0df-f3aa6ff6dbee" "Section 3 Worksheet (PDF)" %}}
