@@ -26,7 +26,7 @@ By the end of this training, mentors will be able to:
 Training will synthesize material from the following references.
 
 - [*Entering Mentoring*](https://cimerproject.org/entering-mentoring/): First Edition, Christine Pfund, Janet Branchaw, and Jo Handelsman, W. H. Freeman, 2015, ISBN: 9781464184901.
-- [Mentoring resources](https://docs.google.com/document/d/137giDqegr-fVoXL0SrcomfxTMcME3vJVgjDCK5Lrdpc/edit), courtesy of Lourdes Alemán and Benjamin Hansberry at MIT Teaching + Learning Lab, as well as the Teaching Development Fellowship Program.
+- Mentoring resources, courtesy of Lourdes Alemán and Benjamin Hansberry at MIT Teaching + Learning Lab, as well as the Teaching Development Fellowship Program.
 - [Mentor Resources, MIT UROP Office](https://urop.mit.edu/mentors/resources)
 - Whistling Vivaldi: How Stereotypes Affect Us and What We Can Do, Steele C, 2010.
 
@@ -49,13 +49,9 @@ Week 5
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "163d938a-365d-4588-9a32-55a854de92bb" "Section 3: Effective and inclusive communication in a remote setup" %}}
 {{< tdclose >}}{{< tdopen >}}
-Week 7
+Week 10
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "57466062-1c6b-4936-b95e-874b1fc87d27" "Section 4: Fostering independence" %}}
 {{< tdclose >}}{{< tdopen >}}
-Week 9
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-{{% resource_link "b67cd873-8b13-4f8c-a3d0-0723237bfdf7" "Section 5: Prepare the end-of-term discussion" %}}
-{{< tdclose >}}{{< tdopen >}}
-Week 13
+Week 16
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
