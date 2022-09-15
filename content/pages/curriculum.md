@@ -22,7 +22,7 @@ Week 1
 {{< tdclose >}}{{< tdopen >}}
 Introduction to MICRO and Materials Science
 {{< tdclose >}}{{< tdopen >}}
-Mark Miodownik: [Stuff Matters](https://www.youtube.com/watch?v=wxyY1lyC4gM&t=1318s)
+Video: [Stuff Matters](https://www.youtube.com/watch?v=wxyY1lyC4gM&t=1318s), Mark Miodownik
 {{< tdclose >}}{{< tdopen >}}
 (1) MICRO Bio
 {{< tdclose >}}{{< tdopen >}}
@@ -33,9 +33,9 @@ Week 2
 Materials Science Applications: Medicine and Energy
 {{< tdclose >}}{{< tdopen >}}
 
-(1) Michael Cima: [The Intersection of Materials and Medicine](https://www.youtube.com/watch?v=4wjtWUGfYZs&t=2s)
+Video: [The Intersection of Materials and Medicine](https://www.youtube.com/watch?v=4wjtWUGfYZs&t=2s), Prof. Michael Cima
 
-(2) Jeffrey Grossman: [Hey, Atoms: What Have You Done for Me Lately?](https://www.youtube.com/watch?v=btefFyjmxNE&t=1689s)
+Video: [Hey, Atoms: What Have You Done for Me Lately?](https://www.youtube.com/watch?v=btefFyjmxNE&t=1689s), Prof. Jeff Grossman
 
 {{< tdclose >}}{{< tdopen >}}
 Research Outline
@@ -47,9 +47,9 @@ Week 3
 Think Like a Materials Scientist: Crystallography
 {{< tdclose >}}{{< tdopen >}}
 
-(1) [Introduction to Crystallography](https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/resources/lecture-18/)
+Video: [Introduction to Crystallography](https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/resources/lecture-18/), Prof. Jeff Grossman
 
-(2) [Crystallographic Notation](https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/resources/lecture-19/)
+Video: [Crystallographic Notation](https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/resources/lecture-19/), Prof. Jeff Grossman
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -61,9 +61,9 @@ Week  4
 Think Like a Materials Scientist: Defects
 {{< tdclose >}}{{< tdopen >}}
 
-(1) [Point and Line Defects 1](https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/resources/lecture-23/)
+Video: [Point and Line Defects I](https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/resources/lecture-23/), Prof. Jeff Grossman
 
-(2) [Point and Line Defects 2](https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/resources/lecture-24/)
+Video: [Point and Line Defects II](https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/resources/lecture-24/), Prof. Jeff Grossman
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -75,9 +75,9 @@ Week 5
 Think Like a Materials Scientist: Phase Diagrams
 {{< tdclose >}}{{< tdopen >}}
 
-(1) [Binary Phase Diagrams: Complete Solubility](https://ocw.mit.edu/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/pages/solid-solutions/34-binary-phase-diagrams-complete-solubility/)
+Video: [Binary Phase Diagrams: Complete Solubility](https://ocw.mit.edu/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/pages/solid-solutions/34-binary-phase-diagrams-complete-solubility/), Prof. Don Sadoway
 
-(2) [Binary Phase Diagrams: Limited Solubility](https://ocw.mit.edu/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/pages/solid-solutions/35-binary-phase-diagrams-limited-solubility/)
+Video: [Binary Phase Diagrams: Limited Solubility](https://ocw.mit.edu/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/pages/solid-solutions/35-binary-phase-diagrams-limited-solubility/), Prof. Don Sadoway
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -86,7 +86,7 @@ Think Like a Materials Scientist: Phase Diagrams
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Week 6
 {{< tdclose >}}{{< tdopen >}}
-So what is Materials Science, anyway?
+What is Materials Science?
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
