@@ -32,7 +32,7 @@ Training will synthesize material from the following references.
 
 Additional worksheets and personalized exercises will be provided for each topic.
 
-## Tentative Training Schedule
+## Training Schedule
 
 {{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 **Section**
