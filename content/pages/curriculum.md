@@ -5,9 +5,9 @@ draft: false
 title: MICRO Student Curriculum
 uid: b86f62d8-591c-4792-bf6a-b241dcfeb111
 ---
-## Week1: Introduction to MICRO and Materials Science
+## Week 1: Intro to MICRO and Materials Science
 
-Video: Mark Miodownik: [Stuff Matters](https://www.youtube.com/watch?v=wxyY1lyC4gM&t=1318s)
+     Video: Mark Miodownik: [Stuff Matters](https://www.youtube.com/watch?v=wxyY1lyC4gM&t=1318s)
 
 ## Week 2: Exploring Applications
 
@@ -56,11 +56,13 @@ The goal of this second assignment is for you to develop and communicate a deepe
 
 ## Final Project: Cumulative Presentation
 
-For your final project, you will develop a 10-15 minute presentation that you will share over Zoom with the MICRO students and staff. (You are welcome to invite your research advisors, too!) Your presentation should include the following:
+For your final project, you will develop a 10-15 minute presentation that you will share over Zoom with the MICRO students and staff. (You are welcome to invite your research advisors, too!) 
 
-1. Motivation for the project you work on
-2. Background and scientific questions and hypotheses relevant to your contribution to the project
-3. A summary of the results of your research
-4. A discussion of the conclusions that can be drawn from your results and any future work that you would recommend
+Your presentation should include the following:
+
+- Motivation for the project you work on
+- Background and scientific questions and hypotheses relevant to your contribution to the project
+- A summary of the results of your research
+- A discussion of the conclusions that can be drawn from your results and any future work that you would recommend
 
 We will also ask you to provide a short abstract that summarizes your work.  [You can see examples of abstracts from previous MICRO students here.](https://micro.mit.edu/micro-abstracts)
