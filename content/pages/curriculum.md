@@ -165,21 +165,6 @@ Develop final presentation
 Final MICRO Presentations
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
- \* 
-
-## Video Links
-
-1. Mark Miodownik: [Stuff Matters](https://www.youtube.com/watch?v=wxyY1lyC4gM&t=1318s)
-2. Prof. Michael Cima – [The Intersection of Materials and Medicine](https://www.youtube.com/watch?v=4wjtWUGfYZs&t=2s)
-3. Prof. Jeffrey Grossman – [Hey, Atoms: What Have You Done for Me Lately?](https://www.youtube.com/watch?v=btefFyjmxNE&t=1689s) 
-4. Prof. Frances Ross – [Funny Microscope Videos](https://www.youtube.com/watch?v=taiUjgCTX-Q)
-5. *3.091 Intro to Solid State Chemistry* – Prof. Jeffrey Grossman: [Introduction to Crystallography](https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/resources/lecture-18/)
-6. *3.091 Intro to Solid State Chemistry* – Prof. Jeffrey Grossman: [Crystallographic Notation](https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/resources/lecture-19/)
-7. *3.091 Intro to Solid State Chemistry* – Prof. Jeffrey Grossman: [Point and Line Defects 1](https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/resources/lecture-23/)
-8. *3.091 Intro to Solid State Chemistry* – Prof. Jeffrey Grossman: [Point and Line Defects 2](https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/resources/lecture-24/)
-9. *3.091SC Intro to Solid State Chemistry* – Prof. Don Sadoway: [Binary Phase Diagrams: Complete Solubility](https://ocw.mit.edu/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/pages/solid-solutions/34-binary-phase-diagrams-complete-solubility/)
-10. *3.091SC Intro to Solid State Chemistry* – Prof. Don Sadoway: [Binary Phase Diagrams: Limited Solubility](https://ocw.mit.edu/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/pages/solid-solutions/35-binary-phase-diagrams-limited-solubility/)
-
 ## Week One: Introduction to MICRO and Materials Science
 
 Video: Mark Miodownik: [Stuff Matters](https://www.youtube.com/watch?v=wxyY1lyC4gM&t=1318s)
