@@ -5,7 +5,7 @@ draft: false
 title: MICRO Student Curriculum
 uid: b86f62d8-591c-4792-bf6a-b241dcfeb111
 ---
-## Week 1: Intro to MICRO and Materials Science
+## Week 1: Introduction to MICRO and Materials Science
 
      Video: Mark Miodownik: [Stuff Matters](https://www.youtube.com/watch?v=wxyY1lyC4gM&t=1318s)
 
