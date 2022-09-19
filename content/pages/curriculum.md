@@ -12,7 +12,7 @@ uid: b86f62d8-591c-4792-bf6a-b241dcfeb111
 ## Week 2: Exploring Applications
 
 - Video: [The Intersection of Materials and Medicine](https://www.youtube.com/watch?v=4wjtWUGfYZs&t=2s), Prof. Michael Cima
-- Video: [Hey, Atoms: What Have You Done for Me Lately?](https://www.youtube.com/watch?v=btefFyjmxNE&t=1689s), Prof. Jeff Grossman
+- Video: [Hey, Atoms: What Have You Done for Me Lately?](https://www.youtube.com/watch?v=btefFyjmxNE&t=1689s) Prof. Jeff Grossman
 
 ## Week 3: Crystallography
 
