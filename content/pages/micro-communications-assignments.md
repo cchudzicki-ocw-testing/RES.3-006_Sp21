@@ -1,7 +1,7 @@
 ---
 content_type: page
 description: Details are outlined here on student assignments.
-draft: false
+draft: true
 title: Student Communications Assignments
 uid: b8baf098-b503-4d0b-b2c6-960822ad96fb
 ---
