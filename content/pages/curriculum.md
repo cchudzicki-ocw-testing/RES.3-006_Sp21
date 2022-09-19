@@ -31,7 +31,7 @@ uid: b86f62d8-591c-4792-bf6a-b241dcfeb111
 
 ## Week 6: What is Materials Science?
 
-This week, rather than having you watch any new lectures, we'd like you to reflect on what you have learned so far. To that end, we're asking you to put together a short response to the question, "So what is Materials Science, anyway?". Your answer can draw on MICRO lectures, the research you've done thus far, past experience, or anything else. Importantly, we're not asking for you to be comprehensive or exhaustive; we're looking for your take on this intentionally open-ended question. There's no hard length requirement, but we're envisioning responses in the ballpark of 500-1,000 words.
+This week, rather than having you watch any new lectures, we'd like you to reflect on what you have learned so far. To that end, we're asking you to put together a short response to the question, "So what is Materials Science, anyway?" Your answer can draw on MICRO lectures, the research you've done thus far, past experience, or anything else. Importantly, we're not asking for you to be comprehensive or exhaustive; we're looking for your take on this intentionally open-ended question. There's no hard length requirement, but we're envisioning responses in the ballpark of 500-1,000 words.
 
 ## Week 7: Beginning a Literature Review
 
