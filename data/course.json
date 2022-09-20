@@ -42,6 +42,9 @@
     "content": "c489a1cc-29e0-4ac5-a46f-ca9edea5ab5e",
     "website": "micro-mentoring-resources-and-materials-science-curriculum"
   },
-  "learning_resource_types": [],
+  "learning_resource_types": [
+    "Written Assignments with Examples",
+    "Activity Assignments"
+  ],
   "site_uid": "c675db3e-5ede-4387-b083-b3c588c76a55"
 }
