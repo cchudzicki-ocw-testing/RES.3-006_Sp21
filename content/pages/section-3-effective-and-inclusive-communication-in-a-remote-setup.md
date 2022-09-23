@@ -5,8 +5,6 @@ draft: false
 title: 'Section 3: Effective and Inclusive Communication in a Remote Setup'
 uid: 163d938a-365d-4588-9a32-55a854de92bb
 ---
-### Duration: 1 hour
-
 ## Objectives
 
 At the end of this section, the mentors will be able to:
