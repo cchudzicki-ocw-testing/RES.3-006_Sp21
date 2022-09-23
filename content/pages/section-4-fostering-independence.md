@@ -5,8 +5,6 @@ draft: false
 title: 'Section 4: Fostering Independence'
 uid: 57466062-1c6b-4936-b95e-874b1fc87d27
 ---
-### Duration: 30 min
-
 ## Objectives
 
 At the end of this section, the mentors will be able to:
