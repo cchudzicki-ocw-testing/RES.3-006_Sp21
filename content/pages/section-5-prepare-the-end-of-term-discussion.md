@@ -5,8 +5,6 @@ draft: true
 title: 'Section 5: Prepare the End-of-Term Discussion'
 uid: b67cd873-8b13-4f8c-a3d0-0723237bfdf7
 ---
-### Duration: 30 min
-
 ## Objectives
 
 At the end of this section, the mentors will be able to:
