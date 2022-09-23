@@ -26,7 +26,6 @@ By the end of this training, mentors will be able to:
 Training will synthesize material from the following references.
 
 - [*Entering Mentoring*](https://cimerproject.org/entering-mentoring/): First Edition, Christine Pfund, Janet Branchaw, and Jo Handelsman, W. H. Freeman, 2015, ISBN: 9781464184901.
-- Mentoring resources, courtesy of Lourdes Alemán and Benjamin Hansberry at MIT Teaching + Learning Lab, as well as the Teaching Development Fellowship Program.
 - [Mentor Resources, MIT UROP Office](https://urop.mit.edu/mentors/resources)
 - Whistling Vivaldi: How Stereotypes Affect Us and What We Can Do, Steele C, 2010.
 
