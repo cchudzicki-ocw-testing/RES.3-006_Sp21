@@ -5,8 +5,6 @@ draft: false
 title: 'Section 2: Planning and Managing Remote Research Tasks'
 uid: 5bdf2c96-3e72-4285-99dd-9897c6343383
 ---
-### Duration: 30 min-1 hour
-
 ## Objectives
 
 At the end of this section, the mentors will be able to:
