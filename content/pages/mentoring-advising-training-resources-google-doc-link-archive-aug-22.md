@@ -1,17 +1,13 @@
 ---
 content_type: page
-description: Archive of the resources listed in the google doc.
+description: "Archive of mentoring resources courtesy of Lourdes Alem\xE1n and Benjamin\
+  \ Hansberry at MIT Teaching + Learning Lab, as well as the Teaching Development\
+  \ Fellowship Program."
 draft: true
-title: Mentoring & advising training resources (google doc link archive Aug 22)
+title: Related Mentoring Resources
 uid: a6fdd6d9-24da-4188-99e1-68b0fa3a26a7
 ---
-- Mentoring resources, courtesy of Lourdes Alemán and Benjamin Hansberry at MIT Teaching + Learning Lab, as well as the Teaching Development Fellowship Program.
-
- 
-
-Mentoring & advising faculty training programs: Link [https://docs.google.com/document/d/137giDqegr-fVoXL0SrcomfxTMcME3vJVgjDCK5Lrdpc/edit](https://docs.google.com/document/d/137giDqegr-fVoXL0SrcomfxTMcME3vJVgjDCK5Lrdpc/edit)
-
-[1\. CIMER-Center for Improvement of Mentored Experiences in Research (Univ. of Wisconsin)](https://cimerproject.org/): 
+[CIMER-Center for Improvement of Mentored Experiences in Research (Univ. of Wisconsin)](https://cimerproject.org/)
 
 Most established program in the country. Extensive programming and training for faculty and for facilitators. Evidence shown in a randomized controlled trial with 283 mentor-mentee pairings from 16 institutions (see [here](https://journals.lww.com/academicmedicine/Fulltext/2014/05000/Training_Mentors_of_Clinical_and_Translational.26.aspx) for paper and here for [summary](https://cimerproject.org/#/curricula/recruiting) of results)
 
@@ -353,20 +349,20 @@ Other resources
 
 [How to get the mentoring you want: A guide for graduate students](https://rackham.umich.edu/wp-content/uploads/2018/11/mentoring.pdf) (University of Michigan)
 
-[Mentoring Guide for Faculty](https://grad.uw.edu/for-students-and-post-docs/core-programs/mentoring/mentoring-guides-for-faculty/), University of Washington Mentoring Webpage   
+[Mentoring Guide for Faculty](https://grad.uw.edu/for-students-and-post-docs/core-programs/mentoring/mentoring-guides-for-faculty/), University of Washington Mentoring Webpage    
 Rich resources organized by topics such as advising international students and the effects of age, experience, race, ethnicity, and socioeconomic background on the graduate student experience.
 
 [Mentoring Up: Learning to manage your mentoring relationships](https://stanford.app.box.com/s/pkttqmz9t8pwazuiwhgtnzq4lyc4s9y2) (from The Mentoring Continuum: From Graduate School to Tenure by Glenn Wright)
 
 [Advising Case Studies](https://www.brown.edu/academics/gradschool/sites/brown.edu.academics.gradschool/files/uploads/Case%20Studies%20For%20Mentoring%2010-20-2017.pdf) (Brown University)
 
-[Advising Agreement between Graduate Students and Faculty, Brown University](http://www.brown.edu/academics/gradschool/sites/brown.edu.academics.gradschool/files/uploads/Advising%20Agreement.docx)   
+[Advising Agreement between Graduate Students and Faculty, Brown University](http://www.brown.edu/academics/gradschool/sites/brown.edu.academics.gradschool/files/uploads/Advising%20Agreement.docx)    
 The “Advising Agreement Between Graduate Students and Faculty” is based on the “Mentoring Compact” published by the Graduate Research, Education and Training (GREAT) group of the American Association of Medical Colleges (AAMC), on the IDP (Individual Development Plan) developed by the Federation of American Societies for Experimental Biology (FASEB), on material developed by the National Postdoctoral Association, and on the Guide to Mentoring Graduate Students, published by the Rackham Graduate School at the University of Michigan.
 
-[myIDP](http://myidp.sciencecareers.org/), ScienceCareers.org  (Life and Physical Sciences)    
+[myIDP](http://myidp.sciencecareers.org/), ScienceCareers.org  (Life and Physical Sciences)     
 Online, free individual development plan for students in the life and physical sciences. The self-assessment highlights a student’s strengths and interests and suggests career pathways that may best suit the student.
 
-[ImaginePhD](https://www.imaginephd.com/), Imagine PhD (Humanities and Social Sciences)   
+[ImaginePhD](https://www.imaginephd.com/), Imagine PhD (Humanities and Social Sciences)    
 Online, free career exploration and planning tool tailored for the humanities and social sciences.
 
 [UCSF Faculty Mentoring Toolkit](https://academicaffairs.ucsf.edu/ccfl/media/UCSF_Faculty_Mentoring_Program_Toolkit.pdf): for junior faculty mentoring program but contains documents that we can adapt for a graduate mentoring/advising program
