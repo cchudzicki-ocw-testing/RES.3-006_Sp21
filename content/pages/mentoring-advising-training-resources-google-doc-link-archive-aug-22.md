@@ -11,233 +11,7 @@ uid: a6fdd6d9-24da-4188-99e1-68b0fa3a26a7
 
 [1\. CIMER-Center for Improvement of Mentored Experiences in Research (University of Wisconsin)](https://cimerproject.org/)
 
-Most established program in the country. Extensive programming and training for faculty and for facilitators. Evidence shown in a randomized controlled trial with 283 mentor-mentee pairings from 16 institutions (see [here](https://journals.lww.com/academicmedicine/Fulltext/2014/05000/Training_Mentors_of_Clinical_and_Translational.26.aspx) for paper and here for [summary](https://cimerproject.org/#/curricula/recruiting) of results)
-
-For types of trainings offered see [here](https://cimerproject.org/#/services/training). They are also happy to consult about development and adaptation of training curricula.
-
-Extensive [facilitator guides](https://health.usf.edu/medicine/mdprogram/rise/scholarsresources/~/media/FBB05459BD6B4396BB76725C85BAFF9E.ashx) available (this is just one example). They include case studies.
-
-[Packaged training materials](https://cimerproject.org/#/completeCurricula/mentor) are available by field. From what we can tell, the trainings are similar from one field to another. For an example: 8-week training program from “Multidisciplinary Research Mentor Training” looks like this:
-
-{{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
-Topics 
-{{< tdclose >}}{{< tdopen >}}
-Assignments Due
-{{< tdclose >}}{{< tdopen >}}
-Readings 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Week 1 
-{{< tdclose >}}{{< tdopen >}}
-Getting Started and Project Design 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Week 2 
-{{< tdclose >}}{{< tdopen >}}
-Establishing Expectations & Maintaining Effective Communication 
-{{< tdclose >}}{{< tdopen >}}
-
-1.  Draft mentoring strategy or philosophy 
-
-2\. Description of mentee's research project 
-
-{{< tdclose >}}{{< tdopen >}}
-National Academy of Sciences, (1997). “What is a Mentor?” 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Week 3 
-{{< tdclose >}}{{< tdopen >}}
-Assessing Understanding & Fostering Independence 
-{{< tdclose >}}{{< tdopen >}}
-
-1\. A short biography of mentee 
-
-2\. Summary of the discussion about expectations or a draft mentoring contract 
-
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Week 4 
-{{< tdclose >}}{{< tdopen >}}
-Mentoring Challenges and Solutions 
-{{< tdclose >}}{{< tdopen >}}
-Bring in copies of your own case study to share with the class (or be prepared to present one verbally) 
-{{< tdclose >}}{{< tdopen >}}
-Handelsman, Pfund, Miller Lauffer, & Pribbenow, (2005). “Mentoring Learned, Not Taught.” 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Week 5 
-{{< tdclose >}}{{< tdopen >}}
-Addressing Diversity 
-{{< tdclose >}}{{< tdopen >}}
-Reflection on differences and how they affect the research experience 
-{{< tdclose >}}{{< tdopen >}}
-
-Fine & Handelsman, (2005). “Benefits and Challenges of Diversity.” 
-
-Crutcher, B.N., (2007). “Mentoring across cultures.” 
-
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Week 6 
-{{< tdclose >}}{{< tdopen >}}
-Dealing with Ethics 
-{{< tdclose >}}{{< tdopen >}}
-Look over the general ethics guidelines for your discipline. Be prepared to talk about how they apply to you and your work. Bring a copy of them to class. 
-{{< tdclose >}}{{< tdopen >}}
-Lee, Dennis, & Campbell, (2007). “*Nature's* Guide for Mentors*.”*
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Week 7 
-{{< tdclose >}}{{< tdopen >}}
-The Elements of Effective Mentoring 
-{{< tdclose >}}{{< tdopen >}}
-Summary of your mentor’s response to a mentoring challenges 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Week 8 
-{{< tdclose >}}{{< tdopen >}}
-Developing a Mentoring Philosophy 
-{{< tdclose >}}{{< tdopen >}}
-Revised mentoring philosophy 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
-
- 
-
-[Examples of shorter faculty trainings:](https://cimerproject.org/#/curricula/planning)  these are provided as templates if shorter trainings are the goal.
-
- 
-
-Sample Schedule #1 (recommended)
-
-{{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-Session 
-{{< tdclose >}}{{< tdopen >}}
-Length
-{{< tdclose >}}{{< tdopen >}}
-Topics
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-1
-{{< tdclose >}}{{< tdopen >}}
-2 hrs
-{{< tdclose >}}{{< tdopen >}}
-
-Introduction to Mentor Training
-
-Maintaining Effective Communication
-
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-2
-{{< tdclose >}}{{< tdopen >}}
-2 hrs
-{{< tdclose >}}{{< tdopen >}}
-
-Aligning Expectations
-
-Assessing Understanding
-
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-3
-{{< tdclose >}}{{< tdopen >}}
-2 hrs
-{{< tdclose >}}{{< tdopen >}}
-
-Addressing Equity and Inclusion
-
-Fostering Independence
-
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-4
-{{< tdclose >}}{{< tdopen >}}
-2 hrs
-{{< tdclose >}}{{< tdopen >}}
-
-Promoting Professional Development
-
-Articulating Your Mentoring Philosophy and Plan
-
-{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
-
- 
-
-Sample Schedule #2 (alternative)
-
-{{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-Session 
-{{< tdclose >}}{{< tdopen >}}
-Length
-{{< tdclose >}}{{< tdopen >}}
-Topics
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-1
-{{< tdclose >}}{{< tdopen >}}
-2 hrs
-{{< tdclose >}}{{< tdopen >}}
-
-Introduction to Mentor Training
-
-Maintaining Effective Communication
-
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-2
-{{< tdclose >}}{{< tdopen >}}
-2 hrs
-{{< tdclose >}}{{< tdopen >}}
-
-Aligning Expectations
-
-Assessing Understanding
-
-Addressing Equity and Inclusion
-
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-3
-{{< tdclose >}}{{< tdopen >}}
-2 hrs
-{{< tdclose >}}{{< tdopen >}}
-
-Fostering Independence
-
-Promoting Professional Development
-
-Articulating Your Mentoring Philosophy and Plan
-
-{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
-
- 
-
-[Guidelines for planning](https://cimerproject.org/#/curricula/planning):
-
-Group Size: We recommend 8-12 participants for the full 8-hour mentor training. Facilitation data indicates this size is optimal for achieving the appropriate level of discussion. Our mentor training is a process-based curriculum that relies heavily on the experiences and contributions of each participant. We do not recommend allowing observers to join the group for the full 8-hour mentor training. This can be disruptive to the trust and rapport that develops within the group.
-
-Implementation Plan: the following questions will help you determine what you need to implement research mentee training at your institution:
-
-Who is your target audience?
-
-In what format will your training be delivered? (e.g., course for academic credit, course for professional development, workshop)
-
-When will you implement your training? (e.g., summer, semester, evenings, weekend)
-
-Will your training be integrated into or serve an existing program (e.g., undergraduate research program, graduate training program, fellows training program), or will it stand alone? If integrated, how will it be organized within the existing programmatic framework?
-
-How many mentees do you plan to train in your first round of implementation?
-
-What recruitment strategies will you use?
-
-Who will facilitate and/or co-facilitate the training?
-
-What resources, if any, are already committed to support implementation? What other resources could you leverage? (e.g., funding, administrative help)
-
-How will you evaluate the effectiveness of your training?
-
-What else do you need to get started?
-
- 
-
-Evaluation resources from CIMER can be found [here](https://cimerproject.org/#/evaluation/mentor-training).
+This is the most established program in the country with extensive programming and training for faculty and for facilitators. Evidence is shown in a randomized controlled trial with 283 mentor-mentee pairings from 16 institutions (see [here](https://journals.lww.com/academicmedicine/Fulltext/2014/05000/Training_Mentors_of_Clinical_and_Translational.26.aspx) for paper and here for a [summary](https://cimerproject.org/#/curricula/recruiting) of results). For types of training offered see [here](https://cimerproject.org/#/services/training).  Extensive [facilitator guides](https://health.usf.edu/medicine/mdprogram/rise/scholarsresources/~/media/FBB05459BD6B4396BB76725C85BAFF9E.ashx) are available that include case studies. [Packaged training materials](https://cimerproject.org/#/completeCurricula/mentor) are available by field, as well as [guidelines for planning](https://cimerproject.org/#/curricula/planning). Evaluation resources from CIMER can be found [here](https://cimerproject.org/#/evaluation/mentor-training).
 
  
 
@@ -351,20 +125,20 @@ Other resources
 
 [How to get the mentoring you want: A guide for graduate students](https://rackham.umich.edu/wp-content/uploads/2018/11/mentoring.pdf) (University of Michigan)
 
-[Mentoring Guide for Faculty](https://grad.uw.edu/for-students-and-post-docs/core-programs/mentoring/mentoring-guides-for-faculty/), University of Washington Mentoring Webpage      
+[Mentoring Guide for Faculty](https://grad.uw.edu/for-students-and-post-docs/core-programs/mentoring/mentoring-guides-for-faculty/), University of Washington Mentoring Webpage       
 Rich resources organized by topics such as advising international students and the effects of age, experience, race, ethnicity, and socioeconomic background on the graduate student experience.
 
 [Mentoring Up: Learning to manage your mentoring relationships](https://stanford.app.box.com/s/pkttqmz9t8pwazuiwhgtnzq4lyc4s9y2) (from The Mentoring Continuum: From Graduate School to Tenure by Glenn Wright)
 
 [Advising Case Studies](https://www.brown.edu/academics/gradschool/sites/brown.edu.academics.gradschool/files/uploads/Case%20Studies%20For%20Mentoring%2010-20-2017.pdf) (Brown University)
 
-[Advising Agreement between Graduate Students and Faculty, Brown University](http://www.brown.edu/academics/gradschool/sites/brown.edu.academics.gradschool/files/uploads/Advising%20Agreement.docx)      
+[Advising Agreement between Graduate Students and Faculty, Brown University](http://www.brown.edu/academics/gradschool/sites/brown.edu.academics.gradschool/files/uploads/Advising%20Agreement.docx)       
 The “Advising Agreement Between Graduate Students and Faculty” is based on the “Mentoring Compact” published by the Graduate Research, Education and Training (GREAT) group of the American Association of Medical Colleges (AAMC), on the IDP (Individual Development Plan) developed by the Federation of American Societies for Experimental Biology (FASEB), on material developed by the National Postdoctoral Association, and on the Guide to Mentoring Graduate Students, published by the Rackham Graduate School at the University of Michigan.
 
-[myIDP](http://myidp.sciencecareers.org/), ScienceCareers.org  (Life and Physical Sciences)       
+[myIDP](http://myidp.sciencecareers.org/), ScienceCareers.org  (Life and Physical Sciences)        
 Online, free individual development plan for students in the life and physical sciences. The self-assessment highlights a student’s strengths and interests and suggests career pathways that may best suit the student.
 
-[ImaginePhD](https://www.imaginephd.com/), Imagine PhD (Humanities and Social Sciences)      
+[ImaginePhD](https://www.imaginephd.com/), Imagine PhD (Humanities and Social Sciences)       
 Online, free career exploration and planning tool tailored for the humanities and social sciences.
 
 [UCSF Faculty Mentoring Toolkit](https://academicaffairs.ucsf.edu/ccfl/media/UCSF_Faculty_Mentoring_Program_Toolkit.pdf): for junior faculty mentoring program but contains documents that we can adapt for a graduate mentoring/advising program
