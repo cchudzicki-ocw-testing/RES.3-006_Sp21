@@ -85,13 +85,14 @@ The “Advising Agreement Between Graduate Students and Faculty” is based on t
 
 Online, free individual development plan for students in the life and physical sciences. The self-assessment highlights a student’s strengths and interests and suggests career pathways that may best suit the student.
 
-[ImaginePhD](https://www.imaginephd.com/), Imagine PhD (Humanities and Social Sciences)         
+[ImaginePhD](https://www.imaginephd.com/), Imagine PhD (Humanities and Social Sciences)
+
 Online, free career exploration and planning tool tailored for the humanities and social sciences.
 
-[UCSF Faculty Mentoring Toolkit](https://academicaffairs.ucsf.edu/ccfl/media/UCSF_Faculty_Mentoring_Program_Toolkit.pdf): for junior faculty mentoring program but contains documents that we can adapt for a graduate mentoring/advising program
+[UCSF Faculty Mentoring Toolkit](https://facultyacademicaffairs.ucsf.edu/faculty-life/mentoring): for junior faculty mentoring program but contains documents that we can adapt for a graduate mentoring/advising program
 
-[Guidelines for Faculty-Student Advising at Stanford (Stanford)](https://stanford.box.com/shared/static/mespm59bcanq03o4pppu7r4n9p4sb6t6.pdf)
+[Guidelines for Faculty-Student Advising at Stanford](https://vpge.stanford.edu/academic-guidance/advising-mentoring/advising-0)
 
-[Entering Mentoring](https://www.hhmi.org/sites/default/files/Educational%20Materials/Lab%20Management/entering_mentoring.pdf) was developed by the Wisconsin Program for Scientific Teaching and supported by the Howard Hughes Medical Institute Professors Program to train a new generation of scientists. This 152-page online book for new mentors in lab settings is one of the most comprehensive and essential readings for new faculty. 
+[Entering Mentoring (PDF)](https://www.hhmi.org/sites/default/files/Educational%20Materials/Lab%20Management/entering_mentoring.pdf) was developed by the Wisconsin Program for Scientific Teaching and supported by the Howard Hughes Medical Institute Professors Program to train a new generation of scientists. This 152-page online book for new mentors in lab settings is one of the most comprehensive and essential readings for new faculty. 
 
-[Making the Right Moves: A Practical Guide to Scientifıc Management for Postdocs and New Faculty](https://www.hhmi.org/sites/default/files/Educational%20Materials/Lab%20Management/Making%20the%20Right%20Moves/moves2.pdf) (Burrows Wellcome Fund & the Howard Hughes Medical Institute)
+[Making the Right Moves: A Practical Guide to Scientifıc Management for Postdocs and New Faculty (PDF)](https://www.hhmi.org/sites/default/files/Educational%20Materials/Lab%20Management/Making%20the%20Right%20Moves/moves2.pdf) (Burrows Wellcome Fund & the Howard Hughes Medical Institute)
