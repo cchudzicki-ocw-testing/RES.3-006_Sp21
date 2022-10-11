@@ -13,13 +13,11 @@ uid: a6fdd6d9-24da-4188-99e1-68b0fa3a26a7
 
 This is the most established program in the country with extensive programming and training for faculty and for facilitators. Evidence is shown in a randomized controlled trial with 283 mentor-mentee pairings from 16 institutions (see [here](https://journals.lww.com/academicmedicine/Fulltext/2014/05000/Training_Mentors_of_Clinical_and_Translational.26.aspx) for paper and here for a [summary](https://cimerproject.org/#/curricula/recruiting) of results). For types of training offered see [here](https://cimerproject.org/#/services/training).  Extensive [facilitator guides](https://health.usf.edu/medicine/mdprogram/rise/scholarsresources/~/media/FBB05459BD6B4396BB76725C85BAFF9E.ashx) are available that include case studies. [Packaged training materials](https://cimerproject.org/#/completeCurricula/mentor) are available by field, as well as [guidelines for planning](https://cimerproject.org/#/curricula/planning). Evaluation resources from CIMER can be found [here](https://cimerproject.org/#/evaluation/mentor-training).
 
- 
-
 [2\. Mentoring Skills Workshop (Stanford School of Medicine)](http://med.stanford.edu/academy/programs/mentoring-skills-workshop-series.html)
 
-They have 3 different programs to support good mentoring and advising practices:
+They have several different programs to support good mentoring and advising practices:
 
-Advising award (typically accompanied by a small amount of money)
+Advising award
 
 Coaching services: Coaching services are between a senior mentor and participants. Senior mentors are volunteers that they recruit. Typically two types of participants take advantage of this service: mentors who are already doing a really good job and mentors who because of low performance are referred to them. They would love for more folks to take advantage of this service before they are referred to them.
 
@@ -39,37 +37,23 @@ They have also been asked to do unit trainings where everyone within a unit part
 
  
 
-Curriculum for Mentoring Skills Workshop:
-
-Session 1: Introduction to Mentoring and Giving Feedback: Be aware of the characteristics of a good mentor; know the responsibilities of a mentor; know the responsibilities of a mentee; understand the principles of giving feedback; be able to apply a model of feedback in a mentoring relationship
-
-Session 2: Relationship Management, Communication and Resolving Challenges: Understand the components of Emotional Intelligence (EI); realize how you can enhance your EI to improve your mentoring; realize the importance of self-reflection for effective mentoring; know essential communication skills to enhance your mentoring abilities; be able to reflect on mentoring challenges to improve your ability to mentor
-
-Session 3: Mentoring Across Generational Difference: Describe the mentoring relationship continuum; mentor effectively across generations; adjust your feedback to different communication styles; give effective feedback in challenging situations
+ 
 
 [3\. Mentoring in Research (Stanford, Office of Postdoctoral Affairs)](https://postdocs.stanford.edu/events/series/mentoring-research)
 
 2-day workshops for postdocs (a video & slides of a short workshop named the same can be found [here](https://vpge.stanford.edu/resources/mentoring-research-skills-mentoring))
 
- 
-
 [4\. Clinical & Translational Research Mentoring Training Program (UCSF)](http://accelerate.ucsf.edu/training/mtp)
 
 Lots of mentoring training resources available within this site related to their course materials on 9 topics ranging from communication, diversity, and work-life balance, to institutional orientation and leadership skills. Of most interest might be their [extensive library of case studies](http://accelerate.ucsf.edu/training/mdp-cases).
-
- 
 
 [5\. Faculty Mentoring Workshop (Univ. of Washington)](https://ictr.wisc.edu/mentoring/)
 
 Based on a curriculum called “Mentor Training for Clinical and Translational Researchers” (developed by CIMER above) which is an 8, 2-hour workshop series.
 
- 
-
 [6\. Faculty Mentorship Workshop (Indiana School of Medicine)](https://www.mededportal.org/publication/9778/)
 
 Materials from this multiple-session workshop are provided for download (left of the page). Skill-building sessions included are: “Characteristics of Effective Mentors,” “Maintaining the Mentoring Relationship,” and “Generational Issues and Mentoring,” to name a few. Additional tools include a mentoring self-assessment form and a workshop evaluation.
-
- 
 
 7\. Self-paced online trainings:
 
@@ -125,20 +109,20 @@ Other resources
 
 [How to get the mentoring you want: A guide for graduate students](https://rackham.umich.edu/wp-content/uploads/2018/11/mentoring.pdf) (University of Michigan)
 
-[Mentoring Guide for Faculty](https://grad.uw.edu/for-students-and-post-docs/core-programs/mentoring/mentoring-guides-for-faculty/), University of Washington Mentoring Webpage       
+[Mentoring Guide for Faculty](https://grad.uw.edu/for-students-and-post-docs/core-programs/mentoring/mentoring-guides-for-faculty/), University of Washington Mentoring Webpage        
 Rich resources organized by topics such as advising international students and the effects of age, experience, race, ethnicity, and socioeconomic background on the graduate student experience.
 
 [Mentoring Up: Learning to manage your mentoring relationships](https://stanford.app.box.com/s/pkttqmz9t8pwazuiwhgtnzq4lyc4s9y2) (from The Mentoring Continuum: From Graduate School to Tenure by Glenn Wright)
 
 [Advising Case Studies](https://www.brown.edu/academics/gradschool/sites/brown.edu.academics.gradschool/files/uploads/Case%20Studies%20For%20Mentoring%2010-20-2017.pdf) (Brown University)
 
-[Advising Agreement between Graduate Students and Faculty, Brown University](http://www.brown.edu/academics/gradschool/sites/brown.edu.academics.gradschool/files/uploads/Advising%20Agreement.docx)       
+[Advising Agreement between Graduate Students and Faculty, Brown University](http://www.brown.edu/academics/gradschool/sites/brown.edu.academics.gradschool/files/uploads/Advising%20Agreement.docx)        
 The “Advising Agreement Between Graduate Students and Faculty” is based on the “Mentoring Compact” published by the Graduate Research, Education and Training (GREAT) group of the American Association of Medical Colleges (AAMC), on the IDP (Individual Development Plan) developed by the Federation of American Societies for Experimental Biology (FASEB), on material developed by the National Postdoctoral Association, and on the Guide to Mentoring Graduate Students, published by the Rackham Graduate School at the University of Michigan.
 
-[myIDP](http://myidp.sciencecareers.org/), ScienceCareers.org  (Life and Physical Sciences)        
+[myIDP](http://myidp.sciencecareers.org/), ScienceCareers.org  (Life and Physical Sciences)         
 Online, free individual development plan for students in the life and physical sciences. The self-assessment highlights a student’s strengths and interests and suggests career pathways that may best suit the student.
 
-[ImaginePhD](https://www.imaginephd.com/), Imagine PhD (Humanities and Social Sciences)       
+[ImaginePhD](https://www.imaginephd.com/), Imagine PhD (Humanities and Social Sciences)        
 Online, free career exploration and planning tool tailored for the humanities and social sciences.
 
 [UCSF Faculty Mentoring Toolkit](https://academicaffairs.ucsf.edu/ccfl/media/UCSF_Faculty_Mentoring_Program_Toolkit.pdf): for junior faculty mentoring program but contains documents that we can adapt for a graduate mentoring/advising program
