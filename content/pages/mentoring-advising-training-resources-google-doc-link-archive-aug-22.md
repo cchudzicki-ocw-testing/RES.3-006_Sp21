@@ -37,7 +37,7 @@ Based on a curriculum called “Mentor Training for Clinical and Translational R
 
 Materials from this multiple-session workshop are provided for download. Skill-building sessions included are: “Characteristics of Effective Mentors,” “Maintaining the Mentoring Relationship,” and “Generational Issues and Mentoring,” to name a few. Additional tools include a mentoring self-assessment form and a workshop evaluation.
 
-## Self-paced online trainings
+## Self-paced Online Trainings
 
 [University of Minnesota Online Optimizing the Practice of Mentoring](https://www.ctsi.umn.edu/education-and-training/mentoring/mentor-training) 
 
@@ -57,7 +57,7 @@ You must have a paid CIRTL institutional account to access this resource; 11-wee
 - Cultivating Ethical Behavior 
 - Articulating a Mentoring Philosophy and Plan
 
-## Other resources
+## Other Resources
 
 [MIT Ombuds Office Scientific Conflict](https://ombudsman.nih.gov/scientific_conflicts): a resource for conveying a PI’s expectations before people join a group.
 
