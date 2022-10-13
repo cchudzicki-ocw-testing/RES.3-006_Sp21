@@ -81,7 +81,7 @@ An extensive, detailed guide to effective mentoring: reasons for mentoring, gene
 
 The “Advising Agreement Between Graduate Students and Faculty” is based on the “Mentoring Compact” published by the Graduate Research, Education and Training (GREAT) group of the American Association of Medical Colleges (AAMC), on the IDP (Individual Development Plan) developed by the Federation of American Societies for Experimental Biology (FASEB), on material developed by the National Postdoctoral Association, and on the Guide to Mentoring Graduate Students, published by the Rackham Graduate School at the University of Michigan.
 
-[myIDP](http://myidp.sciencecareers.org/), ScienceCareers.org  (Life and Physical Sciences)
+[myIDP](http://myidp.sciencecareers.org/), ScienceCareers.org (Life and Physical Sciences)
 
 Online, free individual development plan for students in the life and physical sciences. The self-assessment highlights a student’s strengths and interests and suggests career pathways that may best suit the student.
 
