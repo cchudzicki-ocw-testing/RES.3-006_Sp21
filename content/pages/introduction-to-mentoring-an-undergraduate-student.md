@@ -34,6 +34,8 @@ Additional worksheets and personalized exercises will be provided for each topic
 
 ## Training Schedule
 
+Note that these trainings occur periodically across the semester.
+
 {{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 **Section**
 {{< tdclose >}}{{< tdopen >}}
