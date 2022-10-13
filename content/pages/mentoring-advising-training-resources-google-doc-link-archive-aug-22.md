@@ -1,10 +1,8 @@
 ---
 content_type: page
-description: "Mentoring resources courtesy of Lourdes Alem\xE1n and Benjamin Hansberry\
-  \ at MIT Teaching + Learning Lab, as well as the Teaching Development Fellowship\
-  \ Program."
+description: xxx
 draft: false
-title: Related Mentoring Resources
+title: OLD TLL mentoring resources
 uid: a6fdd6d9-24da-4188-99e1-68b0fa3a26a7
 ---
 ## Online Resources
