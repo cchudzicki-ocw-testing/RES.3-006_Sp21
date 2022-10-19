@@ -8,7 +8,7 @@ uid: 7d80c17f-1460-439d-a1ce-ed9e670f50aa
 ---
 ## Training Description
 
-The success of the MICRO internships relies heavily on the success of the mentor-mentee interactions in the program. MICRO program mentors consist of graduate students, post-docs, research scientists, and faculty who guide the program participants in their research. The experience of these research mentors varies greatly, especially when it comes to mentoring in a virtual environment; therefore, we provide our mentors with a set of resources aimed to support them in four main competencies in research mentoring: (1) Defining a research project and aligning expectations, (2) Planning and managing remote research tasks, (3) Effective and inclusive communication in a remote setup, and (4) Fostering independence. The interactive and methodical approach presented in this training is designed to help mentors develop skills for engaging in a productive, culturally-responsive relationship with their mentees. Each section includes worksheets and additional material to guide the mentors in putting into practice the competencies learned.
+The success of the MICRO internships relies heavily on the success of the mentor-mentee interactions in the program. MICRO program mentors consist of graduate students, post-docs, research scientists, and faculty who guide the program participants in their research. The experience of these research mentors varies greatly, especially when it comes to mentoring in a virtual environment. Therefore, we provide our mentors with a set of resources aimed to support them in four main competencies in research mentoring: (1) Defining a research project and aligning expectations, (2) Planning and managing remote research tasks, (3) Effective and inclusive communication in a remote setup, and (4) Fostering independence. The interactive and methodical approach presented in this training is designed to help mentors develop skills for engaging in a productive, culturally-responsive relationship with their mentees. Each section includes worksheets and additional material to guide the mentors in putting into practice the competencies learned.
 
 ## Desired Learning Outcomes
 
@@ -19,11 +19,11 @@ By the end of this training, mentors will be able to:
 - Structure remote undergraduate mentoring and implement tools for information and data sharing.
 - Provide critical feedback in a constructive and inclusive way to the mentee to assist them in reaching their full research potential.
 - Foster mentee independence through the development of a network of mentors that they can reach out to for guidance and help on relevant questions.
-- Know relevant resources for support and guidance for mentoring issues.
+- Access relevant resources for support and guidance for mentoring issues.
 
 ## Training Materials
 
-Training will synthesize material from the following references.
+Training will synthesize material from the following references:
 
 - [*Entering Mentoring*](https://cimerproject.org/entering-mentoring/), Christine Pfund, Janet Branchaw, and Jo Handelsman, W. H. Freeman, First Edition: 2015. ISBN: 9781464184901.
 - {{% resource_link "f331f992-e8c0-4e79-a007-559823096a07" "Mentoring resources" %}}, courtesy of Lourdes Alemán and Benjamin Hansberry at MIT Teaching + Learning Lab, as well as the Teaching Development Fellowship Program.
