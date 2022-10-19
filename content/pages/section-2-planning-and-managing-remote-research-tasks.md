@@ -9,7 +9,7 @@ uid: 5bdf2c96-3e72-4285-99dd-9897c6343383
 
 At the end of this section, the mentors will be able to:
 
-- Evaluate the mentees’ existing skills and organization scheme and provide them with the relevant resources to expand their knowledge to accomplish defined research tasks.
+- Evaluate the mentees’ existing skills and organization scheme and provide the undergraduate researcher with the relevant resources to expand their knowledge to accomplish defined research tasks.
 - Collaboratively set standards for file structures that are meant to be shared such as data, reports, codes, notebooks, etc.
 - Effectively lead regular check-in meetings with the undergraduate researcher that address the work accomplished in the past and define the short-term goals before the following check-in.
 - Provide the undergraduate researcher with a flexible and comfortable lab experience and contribute to their scientific development through a variety of activities.
