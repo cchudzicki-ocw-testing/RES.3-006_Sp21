@@ -12,7 +12,7 @@ At the end of this section, the mentors will be able to:
 - Build their mentee’s self-confidence to conduct independent research.
 - Assist their mentee in pursuing their future career steps, both short- and long-term.
 - Encourage the undergraduate student in developing a network of mentors they can go to for guidance and help on a variety of issues.
-- Encourage and harness their mentee creativity in actively participating in planning their future and that of the research project.
+- Encourage and harness their mentee's creativity in actively participating in planning their future and that of the research project.
 
 ## Description
 
