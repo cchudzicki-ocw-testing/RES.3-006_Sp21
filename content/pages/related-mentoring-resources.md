@@ -11,31 +11,27 @@ uid: f331f992-e8c0-4e79-a007-559823096a07
 
 The 2019 National Academies Report [The Science of Effective Mentoring in STEMM](https://www.nationalacademies.org/our-work/the-science-of-effective-mentoring-in-stemm)
 
-Includes *The Science of Mentorship* podcast series, an online guide, publications, and other resources.
+Includes *The Science of Mentorship* podcast series, an online guide, mentoring tools, publications, and other resources.
+
+### Mentor and Mentee Training Resources
 
 [CIMER-Center for Improvement of Mentored Experiences in Research (University of Wisconsin)](https://cimerproject.org/)
 
-This is the most established program in the country with extensive programming and training for faculty and for facilitators. Evidence is shown in a randomized controlled trial with 283 mentor-mentee pairings from 16 institutions (see [here](https://journals.lww.com/academicmedicine/Fulltext/2014/05000/Training_Mentors_of_Clinical_and_Translational.26.aspx) for paper and here for a [summary](https://cimerproject.org/#/curricula/recruiting) of results). For types of training offered see [here](https://cimerproject.org/#/services/training).  Extensive [facilitator guides](https://health.usf.edu/medicine/mdprogram/rise/scholarsresources/~/media/FBB05459BD6B4396BB76725C85BAFF9E.ashx) are available that include case studies. [Packaged training materials](https://cimerproject.org/#/completeCurricula/mentor) are available by field, as well as [guidelines for planning](https://cimerproject.org/#/curricula/planning). There are also [evaluation resources from CIMER](https://cimerproject.org/#/evaluation/mentor-training).
+This center offers a nationally recognized, evidence-based, process-based curriculum for mentor and meentee training.
 
-[Mentoring Skills Workshop Series (Stanford School of Medicine)](http://med.stanford.edu/academy/programs/mentoring-skills-workshop-series.html)
+- [Mentor Curricula and Training: Entering Mentoring](https://cimerproject.org/entering-mentoring/): professional development for research mentors.
+- [Mentee Curricula and Training: Entering Research](https://cimerproject.org/entering-research/): designed to “level the research playing field for undergraduate and graduate students”, particularly from historially underrepresented backgrounds, introducing them to the culture of research and the skills needed to navigate mentoring relationships successfully. 
+- [Managing Mentoring Relationships Curricula and Training](https://cimerproject.org/mentoring-up/): developed for postdoctoral and junior faculty to help them navigate their careers and proactively manage their mentoring relationships.
 
-They have several different programs to support good mentoring and advising practices, including an advising award, coaching services, and the mentoring skills workshop series.
-
-[Mentoring in Research (Stanford, Office of Postdoctoral Affairs)](https://postdocs.stanford.edu/events/series/mentoring-research)
-
-Features two-day workshops for postdocs. A video and slides of a short workshop named the same can be found [here](https://vpge.stanford.edu/resources/mentoring-research-skills-mentoring).
+CIMER also provides facilitator trainings, assessment services for institutions implementing mentoring education programs and a wealth of additional resources. 
 
 [Clinical & Translational Research Mentoring Training Program (UCSF)](http://accelerate.ucsf.edu/training/mtp)
 
-Lots of mentoring training resources available within this site related to their course materials on 9 topics ranging from communication, diversity, and work-life balance, to institutional orientation and leadership skills. Of most interest might be their [extensive library of case studies](http://accelerate.ucsf.edu/training/mdp-cases).
+Mentoring training resources related to mentor training course materials including an [extensive library of case studies](http://accelerate.ucsf.edu/training/mdp-cases) used for mentor trainings.
 
-[Faculty Mentoring Workshop (University of Washington)](https://ictr.wisc.edu/mentoring/)
+[Mentoring Training Resources (University of Wisconsin-Madison)](https://ictr.wisc.edu/mentoring/)
 
-Based on a curriculum called “Mentor Training for Clinical and Translational Researchers” (developed by CIMER above) which is an 8-session, 2-hour workshop series.
-
-[Faculty Mentorship Workshop (Indiana School of Medicine)](https://www.mededportal.org/publication/9778/)
-
-Materials from this multiple-session workshop are provided for download. Skill-building sessions included are: “Characteristics of Effective Mentors,” “Maintaining the Mentoring Relationship,” and “Generational Issues and Mentoring,” to name a few. Additional tools include a mentoring self-assessment form and a workshop evaluation.
+Online mentor and mentee resources are framed around “the four phases of the relationship: Selection, Alignment, Cultivation, and Closure.”
 
 ## Self-paced Online Trainings
 
@@ -45,54 +41,32 @@ This is a free online resource.
 
 [Research Mentor Training (CIRTL | Center for the Integration of Research, Teaching & Learning)](https://www.cirtl.net/courses/261)
 
-You must have a paid CIRTL institutional account to access this resource; 11-week course with 75-minute sessions online. Topics include:
+You must have a paid CIRTL institutional account to access this resource; 11-week course with 75-minute sessions online. This course is built on the evidenced-based Entering Mentoring curriculum course that is offered by CIMER.
 
-- Aligning Expectations and Assessing Competencies 
-- Promoting Professional Development 
-- Maintaining Effective Communication 
-- Broadening Mentor/Mentee Experiences through Role-Play 
-- Enhancing Intercultural Awareness 
-- Fostering Equity and Inclusion in the Research Context 
-- Fostering Independence 
-- Cultivating Ethical Behavior 
-- Articulating a Mentoring Philosophy and Plan
+## MIT Resources
 
-## Other Resources
+[MIT’s UROP Mentor Resources](https://urop.mit.edu/mentors/resources/): curated resources and how-to-guides
+
+[MIT’s EECS Grad SAGE - Mentoring video](https://www.youtube.com/watch?v=x7O0AwKRJNg): what to consider when choosing a mentor
+
+[OGE - Best Practices in Graduate Student Advising](https://oge.mit.edu/wp-content/uploads/2022/07/Best-Practices-B.pdf)
 
 [MIT Ombuds Office Scientific Conflict](https://ombudsman.nih.gov/scientific_conflicts): a resource for conveying a PI’s expectations before people join a group.
 
-[Indiana University’s School of Medicine, Office of Faculty Affairs and Professional Development](https://faculty.medicine.iu.edu/let-us-help/mentoring/mentoring-toolkit/) offers a faculty mentoring website, which includes a ‘mentoring toolkit’ with practical resources for mentors and mentees.
+## Other Resources
 
-[*Nature*’s guide for mentors](https://www.nature.com/articles/447791a?foxtrotcallback=true) includes good graphics.
+[Mentoring ToolKit (Indiana University’s School of Medicine)](https://faculty.medicine.iu.edu/let-us-help/mentoring/mentoring-toolkit/): offers practical resources for mentors and mentees.
 
-[How to Mentor Graduate Students](https://rackham.umich.edu/wp-content/uploads/2018/11/Fmentoring.pdf): a guide for faculty (University of Michigan Rackham Graduate School)
+[*Nature*’s guide for mentors](https://www.nature.com/articles/447791a?foxtrotcallback=true)
 
-An extensive, detailed guide to effective mentoring: reasons for mentoring, general guidelines for mentoring, advice on initial meetings, how graduate programs can encourage mentoring and much more.
+[How to Mentor Graduate Students (University of Michigan)](https://rackham.umich.edu/wp-content/uploads/2018/11/Fmentoring.pdf): an extensive, detailed guide to effective mentoring.
 
-[How to get the mentoring you want: A guide for graduate students](https://rackham.umich.edu/wp-content/uploads/2018/11/mentoring.pdf) (University of Michigan)
+[How to get the mentoring you want: A guide for graduate students (University of Michigan)](https://rackham.umich.edu/wp-content/uploads/2018/11/mentoring.pdf): companion guide from University Michigan for mentees.
 
-[Mentoring Guide for Faculty](https://grad.uw.edu/for-students-and-post-docs/core-programs/mentoring/mentoring-guides-for-faculty/): University of Washington Mentoring Webpage that includes rich resources organized by topics, e.g., advising international students; the effects of age, experience, race, ethnicity, and socioeconomic background on the graduate student experience.
+[myIDP](http://myidp.sciencecareers.org/), ScienceCareers.org (Life and Physical Sciences): online, free individual development plan for students in the life and physical sciences.
 
-[Mentoring Up: Learning to manage your mentoring relationships](https://stanford.app.box.com/s/pkttqmz9t8pwazuiwhgtnzq4lyc4s9y2) (from *The Mentoring Continuum: From Graduate School to Tenure* by Glenn Wright)
-
-[Advising Case Studies](https://www.brown.edu/academics/gradschool/sites/brown.edu.academics.gradschool/files/uploads/Case%20Studies%20For%20Mentoring%2010-20-2017.pdf) (Brown University)
-
-[Advising Agreement between Graduate Students and Faculty, Brown University](http://www.brown.edu/academics/gradschool/sites/brown.edu.academics.gradschool/files/uploads/Advising%20Agreement.docx)
-
-The “Advising Agreement Between Graduate Students and Faculty” is based on the “Mentoring Compact” published by the Graduate Research, Education and Training (GREAT) group of the American Association of Medical Colleges (AAMC), on the IDP (Individual Development Plan) developed by the Federation of American Societies for Experimental Biology (FASEB), on material developed by the National Postdoctoral Association, and on the Guide to Mentoring Graduate Students, published by the Rackham Graduate School at the University of Michigan.
-
-[myIDP](http://myidp.sciencecareers.org/), ScienceCareers.org (Life and Physical Sciences)
-
-Online, free individual development plan for students in the life and physical sciences. The self-assessment highlights a student’s strengths and interests and suggests career pathways that may best suit the student.
-
-[ImaginePhD](https://www.imaginephd.com/), Imagine PhD (Humanities and Social Sciences)
-
-Online, free career exploration and planning tool tailored for the humanities and social sciences.
+[ImaginePhD](https://www.imaginephd.com/), Imagine PhD (Humanities and Social Sciences): online, free career exploration and planning tool tailored for the humanities and social sciences.
 
 [UCSF Faculty Mentoring Toolkit](https://facultyacademicaffairs.ucsf.edu/faculty-life/mentoring): for junior faculty mentoring program but contains documents that we can adapt for a graduate mentoring/advising program
 
-[Guidelines for Faculty-Student Advising at Stanford](https://vpge.stanford.edu/academic-guidance/advising-mentoring/advising-0)
-
-[Entering Mentoring (PDF)](https://www.hhmi.org/sites/default/files/Educational%20Materials/Lab%20Management/entering_mentoring.pdf) was developed by the Wisconsin Program for Scientific Teaching and supported by the Howard Hughes Medical Institute Professors Program to train a new generation of scientists. This 152-page online book for new mentors in lab settings is one of the most comprehensive and essential readings for new faculty. 
-
-[Making the Right Moves: A Practical Guide to Scientifıc Management for Postdocs and New Faculty (PDF)](https://www.hhmi.org/sites/default/files/Educational%20Materials/Lab%20Management/Making%20the%20Right%20Moves/moves2.pdf) (Burrows Wellcome Fund & the Howard Hughes Medical Institute)
+[Making the Right Moves: A Practical Guide to Scientifıc Management for Postdocs and New Faculty (PDF)](https://www.hhmi.org/sites/default/files/Educational%20Materials/Lab%20Management/Making%20the%20Right%20Moves/moves2.pdf)
