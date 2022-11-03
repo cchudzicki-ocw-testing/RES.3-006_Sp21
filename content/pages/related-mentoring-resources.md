@@ -17,13 +17,13 @@ Includes *The Science of Mentorship* podcast series, an online guide, mentoring 
 
 [CIMER-Center for Improvement of Mentored Experiences in Research (University of Wisconsin)](https://cimerproject.org/)
 
-This center offers a nationally recognized, evidence-based, process-based curriculum for mentor and meentee training.
+This center offers a nationally recognized, evidence-based, process-based curriculum for mentor and mentee training.
 
 - [Mentor Curricula and Training: Entering Mentoring](https://cimerproject.org/entering-mentoring/): professional development for research mentors.
-- [Mentee Curricula and Training: Entering Research](https://cimerproject.org/entering-research/): designed to “level the research playing field for undergraduate and graduate students”, particularly from historially underrepresented backgrounds, introducing them to the culture of research and the skills needed to navigate mentoring relationships successfully. 
+- [Mentee Curricula and Training: Entering Research](https://cimerproject.org/entering-research/): designed to “level the research playing field for undergraduate and graduate students”, particularly from historically underrepresented backgrounds, introducing them to the culture of research and the skills needed to navigate mentoring relationships successfully. 
 - [Managing Mentoring Relationships Curricula and Training](https://cimerproject.org/mentoring-up/): developed for postdoctoral and junior faculty to help them navigate their careers and proactively manage their mentoring relationships.
 
-CIMER also provides facilitator trainings, assessment services for institutions implementing mentoring education programs and a wealth of additional resources. 
+CIMER also provides facilitator trainings, assessment services for institutions implementing mentoring education programs, and a wealth of additional resources. 
 
 [Clinical & Translational Research Mentoring Training Program (UCSF)](http://accelerate.ucsf.edu/training/mtp)
 
@@ -35,13 +35,13 @@ Online mentor and mentee resources are framed around “the four phases of the r
 
 ## Self-paced Online Trainings
 
-[University of Minnesota Online Optimizing the Practice of Mentoring](https://www.ctsi.umn.edu/education-and-training/mentoring/mentor-training) 
+[Optimizing the Practice of Mentoring (University of Minnesota)](https://www.ctsi.umn.edu/education-and-training/mentoring/mentor-training)
 
 This is a free online resource.
 
 [Research Mentor Training (CIRTL | Center for the Integration of Research, Teaching & Learning)](https://www.cirtl.net/courses/261)
 
-You must have a paid CIRTL institutional account to access this resource; 11-week course with 75-minute sessions online. This course is built on the evidenced-based Entering Mentoring curriculum course that is offered by CIMER.
+Requires a paid CIRTL institutional account to access this resource. 11-week course with 75-minute sessions online built on the evidenced-based Entering Mentoring curriculum course offered by CIMER.
 
 ## MIT Resources
 
@@ -65,7 +65,7 @@ You must have a paid CIRTL institutional account to access this resource; 11-wee
 
 [myIDP](http://myidp.sciencecareers.org/), ScienceCareers.org (Life and Physical Sciences): online, free individual development plan for students in the life and physical sciences.
 
-[ImaginePhD](https://www.imaginephd.com/), Imagine PhD (Humanities and Social Sciences): online, free career exploration and planning tool tailored for the humanities and social sciences.
+[ImaginePhD](https://www.imaginephd.com/) (Humanities and Social Sciences): online, free career exploration and planning tool tailored for the humanities and social sciences.
 
 [UCSF Faculty Mentoring Toolkit](https://facultyacademicaffairs.ucsf.edu/faculty-life/mentoring): for junior faculty mentoring program but contains documents that we can adapt for a graduate mentoring/advising program
 
