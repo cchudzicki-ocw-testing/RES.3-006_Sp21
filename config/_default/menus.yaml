@@ -3,14 +3,18 @@ leftnav:
   name: About MICRO
   url: /pages/micro-initiative
   weight: 10
+- identifier: bb4d50e1-8102-4a33-9012-9c0ba4189881
+  name: Instructor Insights
+  url: /pages/instructor-insights
+  weight: 20
 - identifier: 7d80c17f-1460-439d-a1ce-ed9e670f50aa
   name: Mentoring Resources
   url: /pages/introduction-to-mentoring-an-undergraduate-student
-  weight: 20
+  weight: 30
 - identifier: b86f62d8-591c-4792-bf6a-b241dcfeb111
   name: Materials Science Curriculum
   url: /pages/curriculum
-  weight: 30
+  weight: 40
 - identifier: 09cf4fcb-4d3d-4086-8250-c60791e33d90
   name: 'Section 1: Defining a Research Project and Aligning Expectations'
   parent: 7d80c17f-1460-439d-a1ce-ed9e670f50aa
